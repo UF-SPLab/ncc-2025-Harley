@@ -1,0 +1,76 @@
+.tip {
+  position: relative;
+  cursor: crosshair;
+  border-bottom: 1px dotted;
+}
+
+/* Tooltip box from custom attribute */
+.tip:hover::after,
+.tip:focus::after {
+  content: attr(data-tip);   /* notice data-tip, not title */
+  position: absolute;
+  left: 0;
+  top: 1.6em;
+  width: 20rem; 
+  padding: 0.4rem 0.6rem;
+  background: rgba(0.25,0.25,0.25,0.85);
+  color: #fff;
+  border-radius: 6px;
+  font-size: 0.6em;
+  line-height: 1.25;
+  white-space: normal;
+  z-index: 50;
+}
+
+/* Optional: arrow */
+.tip:hover::before,
+.tip:focus::before {
+  content: "";
+  position: absolute;
+  left: 0.6rem;
+  top: 1.2em;
+  border: 6px solid transparent;
+  border-bottom-color: rgba(0,0,0,0.25);
+  z-index: 51;
+}
+
+
+/* —— Left-positioned variant —— */
+.tip[data-pos="left"]:hover::after,
+.tip[data-pos="left"]:focus::after {
+  left: auto;                    /* ignore default */
+  top: 50%;
+  right: calc(100% + 8px);       /* place box to the left of trigger */
+  transform: translateY(-50%);   /* vertical center */
+}
+
+/* Arrow pointing toward the trigger from the left box */
+.tip[data-pos="left"]:hover::before,
+.tip[data-pos="left"]:focus::before {
+  left: auto;                    /* ignore default */
+  top: 50%;
+  right: 100%;                   /* sit between box and trigger */
+  transform: translateY(-50%);
+  border: 6px solid transparent;
+  border-right-color: rgba(0,0,0,0.85);  /* triangle points right → toward trigger */
+}
+
+/* —— Right-positioned variant —— */
+.tip[data-pos="right"]:hover::after,
+.tip[data-pos="right"]:focus::after {
+  right: auto;                    /* ignore default */
+  top: 90%;
+  left: calc(100% + 8px);       /* place box to the left of trigger */
+  transform: translateY(-50%);   /* vertical center */
+}
+
+/* Arrow pointing toward the trigger from the left box */
+.tip[data-pos="right"]:hover::before,
+.tip[data-pos="right"]:focus::before {
+  left: auto;                    /* ignore default */
+  top: 50%;
+  left: 98%;                   /* sit between box and trigger */
+  transform: translateY(-50%);
+  border: 6px solid transparent;
+  border-right-color: rgba(0,0,0,0.85);  /* triangle points right → toward trigger */
+}

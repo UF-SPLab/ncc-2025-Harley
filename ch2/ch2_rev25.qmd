@@ -1,0 +1,1060 @@
+---
+title: "<bold>The Mind-Body Problem</bold>"
+subtitle: "<br><br>Chapter 2  "
+format: 
+  revealjs:
+    slide-number: true
+    preview-links: auto
+    toc: true
+    toc-depth: 1
+    toc-title: "Chapter Contents"
+    title-slide-attributes:
+      data-background-image: gap.jpg
+      data-background-size: contain
+      data-background-opacity: '0.5'
+      data-background-position: center
+    theme: beige
+    css: style.css
+editor_options: 
+  chunk_output_type: console
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+
+## Thought experiments
+
+-   Philosophers use thought experiments to uncover our intuitions and
+    biases about the mind
+    -   Framework to identify faulty logical assumptions and knowledge
+        gaps
+    -   Clears field to set up and characterize a valid problem
+    -   Restricted to abstract domain of Concepts and Theory
+-   Wikipedia
+    -   "A **thought experiment** is a
+        [hypothetical](https://en.wikipedia.org/wiki/Hypothesis "Hypothesis")
+        situation in which a
+        [hypothesis](https://en.wikipedia.org/wiki/Hypothesis "Hypothesis"),
+        [theory](https://en.wikipedia.org/wiki/Theory "Theory"),^[\[a\]](https://en.wikipedia.org/wiki/Thought_experiment#cite_note-%C3%98rsted1811-2)^
+        or
+        [principle](https://en.wikipedia.org/wiki/Principle "Principle")
+        is laid out for the purpose of thinking through its
+        consequences. "
+
+## Quantum States
+
+![](Schrodingers_cat.png)
+
+[^1]
+
+[^1]: [Schrödinger's
+    cat](https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat "Schrödinger's cat")
+    (1935) presents a cat that is in a superposition of alive and dead states, depending on a random
+    [quantum](https://en.wikipedia.org/wiki/Quantum_indeterminacy "Quantum indeterminacy")
+    event. It illustrates the counter-intuitive implications of Bohr's
+    [Copenhagen
+    interpretation](https://en.wikipedia.org/wiki/Copenhagen_interpretation "Copenhagen interpretation")
+    when applied to everyday objects.
+
+
+
+
+## {.scrollable .smaller}
+### KEY TERMS 
+::::: columns
+::: {.column width="50%"}
+
+
+- **mind-body problem** : the problem of how private experience and subjective awareness can arise from the objective matter that comprises neurons and the brain.
+
+- **philosophy of mind** : The branch of philosophy that studies mind, consciousness, mental states, and their relations to the brain, body, and world.
+
+- **thought experiment** : the process of investigating our beliefs about the mind by taking some scenario and thinking through the consequences; examples include mary the scientist when considering the knowledge argument.
+- **intuition pump** : a term coined by dennett to refer to a small thought problem constructed to garner our intuitions about important philosophical questions. bear in mind our intuitions might not always be correct.
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+- **mereological fallacy** : confusing the brain and mind by making statements such as “the brain believes”, when it is only a mind that can believe.
+- **qualia/quale** : the elements of sensation; the individual components of conscious experience
+
+- **substance dualism/Cartesian dualism** : the same as cartesian dualism - the idea that there are two basic types of substance, mind and matter.
+
+- **res extensa** : “Extended substance” in Descartes: matter that occupies space.
+- **res cogitans** : “Thinking substance” in Descartes: mind or consciousness.
+
+- **pineal gland** : A small gland near the centre of the brain between the two hemispheres. Thought to be the seat of the soul and where mind interacts with matter by Descartes, it produces melatonin.
+
+
+
+:::
+:::::
+
+
+
+
+
+## "Intuition Pump" Metaphor {.smaller}
+
+::::: columns
+::: {.column width="50%"}
+
+- Thought experiments in philosophy are **not** real experiments.
+   - “the Chinese Room”
+   - “the Trolley Problem” 
+   - “Mary the color scientist” 
+- Instead, they are narratives or scenarios designed to get us to imagine a situation vividly enough that our intuitions about it come to the surface.
+ 
+
+
+:::
+
+::: {.column width="50%"}
+
+- Intuition Pumps 
+   - Can be helpful OR *misleading*. 
+   - A well-designed one clarifies thinking and reveals hidden assumptions. 
+   - A poorly designed one can manipulate us into holding onto confused or biased intuitions. 
+
+
+
+:::
+:::::
+
+![](Pump_jack_animation.gif){.absolute top="-40" right="-50" height="150"}
+
+## "Intuition Pump" Metaphor  {.smaller}
+
+::::: columns
+::: {.column width="50%"}
+
+- Daniel Dennett: 
+   - These scenarios are designed to “prime” or “squeeze out” *intuitive reactions* from the audience. As a water pump draws up water from the ground, an intuition pump draws intuitions out from the mind.
+
+
+:::
+
+::: {.column width="50%"}
+
+- *In short* 
+
+  - When Dennett calls thought experiments “intuition pumps,” he means they are tools built to elicit and examine our intuitions, which can then be inspected, criticized, and either refined or discarded in the process of philosophical analysis.
+
+
+:::
+:::::
+
+![](Pump_jack_animation.gif){.absolute top="-40" right="-50" height="150"}
+
+
+## The mind and the brain
+
+-   The mind-brain problem
+    -   defines relationships between physical and mental events
+-   How do mental states arise from a physical brain?
+
+## The mereological fallacy
+
+-   Does saying “My brain feels pain” make sense?
+
+-   What about “the brain recognizes words”?
+
+-   Paul Nunez will have much more to say about the issues of
+    parts/wholes and what is top/bottom
+
+    -   [WP: Fallacy of the single
+        cause](https://en.wikipedia.org/wiki/Fallacy_of_the_single_cause)
+    -   [WP: Sufficient
+        Causes](https://en.wikipedia.org/wiki/Necessity_and_sufficiency#Sufficiency)
+
+::: aside
+[Stanford Encyclopedia of
+Philosophy](https://plato.stanford.edu/entries/mereology/index.html)
+Mereology (from the Greek μερος, ‘part’) is the theory of parthood
+relations: of the relations of part to whole and the relations of part
+to part within a whole)
+:::
+
+## Qualia
+
+-   The subjective quality of perceptions
+-   Sensations
+    -   The colour red
+    -   The smell of a rose
+    -   The feeling of pain
+-   How would you describe “red” to someone else?
+
+## Try this: Describing red
+
+-   Choose something with prominent qualia, such as a red rose (see
+    figure 2.1). How would you describe it to someone else? How would
+    you describe colour to someone without sight?
+
+## 
+
+## Try this: How many qualia?
+
+-   Stop and consider your environment.
+-   How many qualia can you become aware of?
+-   Can you be aware of more than one at a time?
+
+
+
+# Ontologic Issues
+
+
+
+## {.scrollable .smaller}
+### KEY TERMS 
+::::: columns
+::: {.column width="50%"}
+
+
+- **monism** : the doctrine that says that there is only one type of substance - mind or matter. contrast dualism.  
+- **dualism** : the idea that there are two basic sorts of substance - that mind and matter are completely different kinds of thing. contrast monism.  
+
+- **idealism** : a form of monism that says that mind is all there is. 
+
+- **materialism/physicalism** : the philosophical proposal that matter is the only fundamental kind of stuff in the universe, and all processes, including consciousness, can be explained in terms of matter.
+
+- **determinism** : the notion that everything is already determined by previous events. the laws of physics mean that every event now can only have one outcome, which has already been determined. Superficially, at least determinism rules out free will, as the outcome of choices has already been determined.
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+- **parallelism** : The view that mental and physical events run in coordinated parallel without direct causal interaction (e.g., Leibniz’s pre-established harmony).
+- **occasionalism** : The view that God (or a fundamental cause) coordinates mental and physical events on each “occasion”; no direct mind–body causation.
+- **dendron** : In Eccles’s dualist-interactionist model, a functional cluster of cortical dendrites posited as the neural unit that interfaces with the mind.
+- **psychon** : In Eccles’s model, a putative unit of conscious experience or intention that interacts with a dendron.
+
+- **property dualism** : One kind of substance (physical) but with irreducible mental properties that depend on, yet are not identical to, physical properties.
+
+- **emergentism or emergence** : the way in which complex properties and behaviour emerge from the interaction of many simple properties.  
+
+
+
+
+:::
+:::::
+
+
+
+## Dualism and monism
+
+-   René Descartes and substance dualism (Cartesian dualism)
+    -   Res cogitans and Res extensa
+-   Other types of dualism
+-   Monism (several kinds?)
+
+## Dualism
+
+-   There are two types of substance
+    -   Mind and matter
+    -   But how do they interact?
+
+## Monism
+
+-   There is one type of matter
+    -   Usually physical monism and matter
+        -   But doesn’t have to be
+-   How does physical matter give rise to subjective experience?
+
+
+
+## {.scrollable .smaller}
+### KEY TERMS 
+::::: columns
+::: {.column width="50%"}
+
+
+- **knowledge argument** : An argument illustrated by the thought experiment of Mary the scientist who sees the world in black and white and then is given a coloured rose; Is it possible to know all there is about colour without experiencing it? The knowledge argument is considered to be one of the strongest ripostes to materialism. 
+
+- **inverted spectrum** : A thought experiment, whereby individuals "see" different colors; for example, when I have the sensation of red, you have the sensation of blue. How could we ever know? 
+
+
+- **argument by analogy (other minds)** : The inference that others have minds because their bodies and behaviors are relevantly like ours, which we know are accompanied by mentality.
+- **congenital analgesia** : A rare condition of being born without pain sensation, often with normal touch, leading to high risk of injury.
+- **dissociation** : A disruption in the normal integration of consciousness, memory, identity, perception, or control; experience and behavior can come apart.
+- **p-zombie** : A being physically and behaviorally identical to a human but lacking conscious experience; used in arguments about physicalism.
+- **epiphenomenalism** : The view that mental events are by-products of physical processes and exert no causal influence on the physical.
+- **conceivability** : Coherent imaginability of a scenario; often used in modal arguments (e.g., zombies) to suggest metaphysical possibility.
+
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+- **nociceptor** : a specialist type of nerve cell that responds to potentially harmful or dangerous stimuli, sending messages to the spinal cord and brain.
+
+- **nociceptive pain** : Pain arising from activation of nociceptors by actual or potential tissue-damaging stimuli (as opposed to neuropathic pain).
+- **A-fibres** : Fast, myelinated afferent fibers (especially A‑delta) that convey sharp, well-localized pain and some temperature information.
+- **C-fibres** : Slow, unmyelinated afferent fibers that convey dull, diffuse, lingering pain (and some temperature/itch).
+- **gate control theory** : Melzack and Wall’s theory that the spinal cord “gate” modulates pain signals based on peripheral input and descending control.
+- **endorphins** : Endogenous opioid peptides (e.g., β‑endorphin) that bind opioid receptors to reduce pain and modulate stress and reward.
+
+
+:::
+:::::
+
+
+
+## The knowledge argument
+
+![](DALL·E%202024-08-15%2013.11.49%20-%20A%20before%20and%20after%20image%20illustrating%20the%20concept%20of%20qualia,%20particularly%20the%20experience%20of%20Mary%20The%20Color%20Scientist%20gaining%20color%20vision.%20The%20left%20si.webp)
+
+::: notes
+-The following thought experiment was devised by the philosopher Frank
+Jackson, and is called the knowledge argument (because Mary, the
+protagonist of the story, has complete knowledge of the world but
+limited experience of it). Let‚Äôs imagine a woman we call Mary
+(Jackson, 1986). Mary has been brought up by an evil philosopher, and
+let's call him Frank. - Before opening her eyes at birth, Mary was given
+a special pair of contact lenses that turns the world monochrome, so
+that she only ever sees the world in black, white, and shades of grey.
+
+-   Mary devotes her life to studying everything to do with colour
+    vision -- the physics of colour, the biology of colour vision, the
+    neuroscience of colour vision--and by the time she's thirty-five she
+    knows everything there is to know about how humans see colour. It
+    might well be that to understand colour vision properly she will
+    have to end up learning everything there is to know about the world,
+    but Mary is extremely clever and has a phenomenal memory, and plenty
+    of time.
+-   Then on her thirty-fifth birthday she is given a red rose and her
+    contact lenses are taken out. What will Mary say? Will she learn
+    anything new about colour, or not? Will she be surprised?
+:::
+
+## Mary the Color Scientist
+
+1\. How does the 'Mary' color thought experiment make us rethink the
+idea that all knowledge comes from physical facts? Do you think science
+alone can fully explain consciousness or does Mary’s experience suggest
+there’s something more going on?
+
+## Mary the Color Scientist
+
+\
+2. Why do you think Mary’s first experience of seeing color is such a
+big deal for understanding consciousness? What’s the difference between
+knowing something in theory and actually experiencing it? Can you argue
+that although Mary spent her life studying colors, she didn't know
+everything there was to know about color?
+
+## Mary the Color Scientist
+
+\
+3. How does the 'Mary" color thought experiment highlight the difficulty
+in explaining qualia (subjective experiences) using only physical
+factors?
+
+## Mary the Color Scientist
+
+\
+4. If Mary had devoted her life to studying consciousness, do you think
+she would have a different understanding of consciousness?
+
+## Mary the Color Scientist
+
+(Explaining implicit "knowledge" that comes directly from experience.)
+
+
+## Mary the Color Scientist {.scrollable .smaller}
+
+| Argument | Supports Dualism | Supports Monism |
+|-------|------------------|-----------------|
+| The "Mary" Colour Experiment | If Mary learns something new upon seeing color, it suggests that subjective experience (qualia) is not fully captured by physical explanations. | If Mary doesn't learn anything new, it suggests that complete physical knowledge is sufficient to account for subjective experiences. |
+| Dennett's Counterargument    | N/A              | Dennett argues that Mary would not be surprised, suggesting that subjective experiences can be fully understood through physical properties. |
+| Knowledge by Description vs Knowledge by Acquaintance | N/A | Churchland uses Bertrand Russell's distinction to argue that while Mary might gain a new form of knowledge (by acquaintance), this doesn't necessarily introduce new facts beyond physical explanations. |
+| Experience as Part of Knowledge | Some argue that Mary couldn't possibly know everything about the world without experiential knowledge, which could be seen as a point against materialist monism. | N/A |
+| The Hard Problem of Consciousness | The inability of materialist monism to solve the "hard problem" (how physical matter gives rise to subjective experience) can be seen as a point in favor of dualism. | Some argue that the "hard problem" might be an artifact of our current understanding and could be solved within a monist framework. |
+
+
+
+## The inverted colour spectrum
+
+-   Could you “see” violet when I “see” red?
+    ![](Trevor%20A.%20Harley_fig.%202_6.jpg){.absolute top="200"
+    left="-10" height="380"}
+
+![](De_Valois_and_Webster_Color_Vision_fig_2-2.jpg){.absolute top="180"
+right="-50" height="230"}
+![](De_Valois_and_Webster_Color_Vision_fig_3.jpg){.absolute bottom="0"
+right="0" height="200"}
+
+::: aside
+http://www.scholarpedia.org/article/Color_vision
+:::
+
+
+
+## Colour Perception
+
+![](fig_9_17.png){.absolute top="200" left="-10" height="400"}
+![](fig_9_24.png){.absolute top="200" right="-50" height="400"}
+
+## Inverted Color Spectrum {.scrollable .smaller}
+
+| Argument | Supports Dualism | Supports Monism |
+|-----|------------------|-----------------|
+| Inverted Spectrum Argument   | The idea that people could experience colors differently (e.g., your red is my green) and that this is undetectable suggests that subjective experiences (qualia) are not fully captured by physical explanations. | If it's possible to detect inversion behaviorally by asking people to make judgments about small differences in colors, then the physicalist view that all experiences can be explained physically is supported. |
+| Hofstadter's Critique        | N/A              | Hofstadter argues that the inverted spectrum argument is incoherent and that experiences are not detached from the physical brain or the world. This supports a monist view. |
+| Asymmetries in Color Space   | N/A              | The existence of asymmetries in color space could make it impossible to find an inversion that is behaviorally undetectable, supporting the idea that experiences can be fully explained physically. |
+| Neuroscience of Vision       | The argument that neuroscience can't tell us what we feel when we see red could be seen as a point in favor of dualism. | If neuroscience can eventually explain what we feel when we see colors, this would support monism. |
+| Relation to Other Colors     | The idea that something is left over about the "redness of red" and the "greenness of green" that isn't captured by their relation to other colors could be seen as a point in favor of dualism. | If the experience of colors can be fully described in terms of their relations to other colors and their positions in color space, this would support monism. |
+
+
+
+## Dualism vs Monism {.scrollable .smaller}
+
+| Topic/Concept/Thought Experiment | Dualism | Monism |
+|----|----|----|
+| Substance Dualism | Proposes that mind and matter are fundamentally different substances. Fits well with intuitive experiences and beliefs about the soul. | N/A |
+| Problems with Substance Dualism | Faces the issue of how mind and matter interact; also, mental material is not accessible through physical or scientific methods. | N/A |
+| Parallelism and Occasionalism | Attempts to explain the interaction between mind and matter through divine intervention. | N/A |
+| Property Dualism | Introduces the concept that there is one substance but two kinds of properties: physical and mental. | N/A |
+| Emergentism | N/A | A form of property dualism; mental properties emerge when matter is organized in certain complex ways. |
+| Idealism | N/A | Proposes that the world is fundamentally mental; material objects exist only in the mind. |
+| Materialism/Physicalism | N/A | Proposes that only physical matter exists, governed by the laws of physics. |
+| Neutral Monism | N/A | Suggests that mind and matter are different aspects of a single substance. |
+| The "Mary" Colour Experiment | Supports the idea that subjective experience (qualia) cannot be fully explained by physical properties alone. | Challenges materialism by suggesting that complete physical knowledge is insufficient to account for subjective experience. |
+| Dennett's Counterargument | N/A | Argues that complete knowledge would indeed prepare Mary for the experience of color, thus no "hard problem" exists. |
+| Churchland's Argument | N/A | Suggests that experience offers a different kind of knowledge ("knowledge-by-acquaintance") but doesn't necessarily introduce new facts. |
+
+## 
+
+![](MagrittePipe.jpg)
+
+[René
+Magritte](https://en.wikipedia.org/wiki/List_of_paintings_by_Ren%C3%A9_Magritte)
+
+## 
+
+::::: columns
+::: {.column width="50%"}
+![](MagrittePipe.jpg) ![](Golconde.jpg)
+:::
+
+::: {.column width="50%"}
+![](son-of-man-1964.jpg)
+:::
+:::::
+
+[René
+Magritte](https://en.wikipedia.org/wiki/List_of_paintings_by_Ren%C3%A9_Magritte)
+
+
+
+
+## The problem of pain
+
+-   The physical aspect of pain
+-   The mental aspect of pain
+-   Pain in babies (27 weeks is gestation; 2nd trimester)
+
+::: aside
+Kolodny, O., Moyal, R., & Edelman, S. (2021). A possible evolutionary
+function of phenomenal conscious experience of pain. Neuroscience of
+consciousness, 2021(2), niab012. https://doi.org/10.1093/nc/niab012
+:::
+
+## P-ZOMBIES
+
+-   Philosophical zombies
+
+    -   Could we have a creature that appears in every way to be
+        conscious, but isn’t?
+
+-   Is consciousness essential?
+
+-   Being conceivable
+
+::: notes
+:::
+
+
+
+
+
+## Materialism
+
+-   A type of monism
+-   All there is is matter
+-   Physics captures everything
+
+
+
+
+## {.scrollable .smaller}
+### KEY TERMS 
+::::: columns
+::: {.column width="50%"}
+
+
+
+- **reductive materialism** : The claim that mental states/properties are nothing over and above physical states/properties and can be reduced to them.
+
+- **mind–brain identity theory** : the thesis that mental states are identical to brain states.  
+
+- **type identity theory** : The identity view that kinds of mental states (types) are identical to kinds of brain states (e.g., pain = C‑fiber firing).
+
+- **multiple realisability** : The idea that the same mental state or function can be realized by different physical substrates or organizations.
+
+- **eliminative materialism** :  a materialist account of the mind body problem that says our everyday common sense “folk psychology” view of the world is wrong, and that some of the mental states we think exist in fact do not. We are fooled by our language into thinking that "believe" and "desire" refer to real things.
+
+- **folk psychology** : Common-sense explanatory scheme of beliefs, desires, intentions, and emotions used to predict and explain behavior.
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+
+:::
+:::::
+
+
+
+
+
+## More materialism
+
+-   Reductive materialism
+
+-   Eliminative materialism
+
+    -   Getting rid of the problem of qualia
+    -   A trick of how we think and speak
+
+::: notes
+:::
+
+
+
+
+
+## {.scrollable .smaller}
+### KEY TERMS 
+::::: columns
+::: {.column width="50%"}
+
+
+
+- **functionalism** : the account of the mind-body relationship that states that all that matters is the causal or functional relationship between mental states. the mind performs computations. the details of what the functional relationships are implemented in doesn’t matter in the same way that a computer program does not need a specific arrangement of transistors to run.
+
+- **substrate independence** : the idea that it’s what computers and brains do - the software - that’s important
+
+
+
+- **neuroprothesis** : A device replacing or extending the brain's functionality.
+
+- **China brain** : Block’s thought experiment in which the population of China instantiates the functional organization of a brain, used to test views about consciousness and functionalism.
+
+
+- **syntax** : The formal structure and rules for manipulating symbols, independent of their meaning.
+- **semantics** : The meanings, references, or truth-conditions associated with symbols or representations.
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+- **computation** : the use of well-defined algorithm or set of algorithms to generate an output. more broadly a metaphor for how the mind works
+
+- **strong AI** : The claim that an appropriately programmed computer literally has a mind and genuine understanding, not mere simulation.
+
+
+- **Chinese room** : Searle’s thought experiment arguing that executing syntax (a program) is insufficient for semantics/understanding.
+
+- **systems reply** : A response to the Chinese room: while the man doesn’t understand, the whole system (man + rules + symbols) does.
+
+
+
+:::
+:::::
+
+
+
+## Functionalism
+
+-   Silicon neurons and silicon brains
+-   The "China brain" thought experiment
+    -   Can the population of China signal and act like a brain?
+    -   *Conversely*: can a neuron be conscious?
+
+::: notes
+-   what's necessary for a function?
+-   What are some problems with this?
+-   There is a lot about a nation that is like an organism. What about
+    our def of the function of consciousness might be comparable?
+:::
+
+## A Function for Consciousness?
+
+-   <https://en.wikipedia.org/wiki/Function>
+-   <https://en.wikipedia.org/wiki/Function_(biology)>
+
+# Epistemic Issues
+
+## Neurons
+
+![](Trevor%20A.%20Harley_fig.%202_10.jpg){.absolute top="0" right="100"
+height="300"}
+
+::: {.column width="50%"}
+-   The brain has about 100 billion neurons.
+-   Each neuron might be connected to about 1000 others.
+-   Does consciousness really arise from just a lot of these connected
+    together?
+:::
+
+::: notes
+Figure 2.10. A neuron. A nerve cell - the brain has about 100 billion of
+them, and each neuron might be connected to a 1000 others. Does
+consciousness really arise from just a lot of these connected together?
+:::
+
+## Arguments against functionalism
+
+-   Searle and the Chinese room
+-   All syntax and no semantics
+-   Is the “systems reply” adequate?
+
+::: notes
+-   I can navigate anywhere in Gainesville if I have GPS and Google
+    maps. Limited number of places w/o phone. Does this mean that I
+    don't know how to navigate?
+-   The cockpit of the plane that Captain Sully flew was arranged to
+    make it possible for him to land the plane on the Hudson. Does this
+    mean that the plane saved the day?
+:::
+
+## *why does* ... Phenomenal Concsciousness matter?
+
+
+::: incremental
+
+- So what, if my behavior and cognition can be accounted for with brains, neurons, chemicals, and atoms?
+
+:::
+
+::: incremental
+
+- Is everything just an easy-problem within the scope of conventional psychology & neuroscience?
+
+:::
+
+::: incremental
+
+- The configuration of neurons in *my* brain determines *my* behavior & causes *my* experience - what it's like to be me.
+
+:::
+
+::: incremental
+
+- Many important things bump into the same problem.
+
+  - Emotional experience: anxiety, rumination, 
+  - Identity & Self-narratives: self-perspective 
+  - Social psychology: theory of mind
+
+:::
+
+## {.scrollable .smaller}
+
+### KEY TERMS 
+::::: columns
+::: {.column width="50%"}
+
+
+- **dancing qualia** : Chalmers’s argument that if functional organization stays fixed across substrate changes, qualia can’t “dance” undetectably; supports organizational invariance.
+
+- **organisational invariance** : The principle that conscious experience depends only on a system’s abstract causal organization, not its material substrate.
+
+- **mysterianism** : The view (e.g., McGinn) that humans are cognitively closed to solving the hard problem of consciousness.
+
+- **cognitive closure** : The idea that some truths are in principle inaccessible to a type of mind given its cognitive capacities.
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+
+
+- **non-reductive materialism** : Everything is physical, but mental properties are not reducible; they supervene on the physical and may have distinct causal roles.
+
+- **private knowledge** : knowledge to which only you have access 
+- **robot** : a machine controlled by a computer that is capable of interacting with the environment and that is capable of carrying out a complex sequence of actions automatically.  
+- **ego theory** : the theory of the self that says that there is a single unified self that  
+
+
+
+
+:::
+:::::
+
+
+
+## Mysterianism
+
+-   The problem of consciousness is too complex for our (human) minds
+-   It is like Beau the poodle trying to understand the nature of
+    language and grammar: it is beyond the capabilities of his brain
+
+## What is it like to be a worm? (302 Neurons)
+
+![](imgs/worm.png){.absolute bottom="0" left="-50" height="200"}
+![](imgs/open_worm.png){.absolute bottom="0" right="-50" height="300"}
+
+::: notes
+-   http://www.openworm.org
+-   https://openworm.org/science.html
+:::
+
+
+
+##  {background-color="black" background-image="j_w.jpg" background-size="contain" background-opacity="1.0"}
+
+
+## Summary
+
+-   What is the difference between mind and brain?
+-   The hard problem is why does it feel like something to be you
+-   How can the feeling of something, mind, arise from a purely physical
+    system?
+-   How many types of substance are there?
+-   Does materialism / physicalism completely describe the universe?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## {.scrollable .smaller}
+
+
+
+
+## Definitions {.scrollable .smaller}
+
+- **mind-body problem** : the problem of how private experience and subjective awareness can arise from the objective matter that comprises neurons and the brain.
+
+- **philosophy of mind** : The branch of philosophy that studies mind, consciousness, mental states, and their relations to the brain, body, and world.
+
+- **thought experiment** : the process of investigating our beliefs about the mind by taking some scenario and thinking through the consequences; examples include mary the scientist when considering the knowledge argument.
+- **intuition pump** : a term coined by dennett to refer to a small thought problem constructed to garner our intuitions about important philosophical questions. bear in mind our intuitions might not always be correct.
+
+- **Swampman** : Davidson’s thought experiment about a lightning-created duplicate of a person with no causal history, used to probe meaning, content, and personal identity.
+- **mind** : The set of capacities for consciousness, thinking, feeling, intending, and perceiving, typically realized by brain processes.
+- **brain** : The central organ of the nervous system that processes information, coordinates behavior, and underlies mental functions.
+
+
+- **mereological fallacy** : confusing the brain and mind by making statements such as “the brain believes”
+- **qualia/quale** : the elements of sensation; the individual components of conscious experience
+
+
+- **substance dualism/Cartesian dualism** : the same as cartesian dualism - the idea that there are two basic types of substance
+
+- **res extensa** : “Extended substance” in Descartes: matter that occupies space.
+- **res cogitans** : “Thinking substance” in Descartes: mind or consciousness.
+
+- **pineal gland** : a small gland near the centre of the brain between the two hemispheres. thought to be the seat of the soul and where mind interacts with matter by descartes
+
+
+
+
+- **parallelism** : The view that mental and physical events run in coordinated parallel without direct causal interaction (e.g., Leibniz’s pre-established harmony).
+- **occasionalism** : The view that God (or a fundamental cause) coordinates mental and physical events on each “occasion”; no direct mind–body causation.
+- **dendron** : In Eccles’s dualist-interactionist model, a functional cluster of cortical dendrites posited as the neural unit that interfaces with the mind.
+- **psychon** : In Eccles’s model, a putative unit of conscious experience or intention that interacts with a dendron.
+- **property dualism** : One kind of substance (physical) but with irreducible mental properties that depend on, yet are not identical to, physical properties.
+
+- **emergentism or emergence** : the way in which complex properties and behaviour emerge from the interaction of many simple properties.  
+- **monism** : the doctrine that says that there is only one type of substance - mind or matter. contrast dualism.  
+- **dualism** : the idea that there are two basic sorts of substance - that mind and matter are completely different kinds of thing. contrast monism.  
+
+- **idealism** : a form of monism that says that mind is all there is. 
+
+- **materialism/physicalism** : the philosophical proposal that matter is the only fundamental kind of stuff in the universe
+
+- **determinism** : the notion that everything is already determined by previous events. the laws of physics mean that every event now can only have one outcome
+
+
+
+
+
+- **knowledge argument** : Jackson’s thought experiment about mary the super-scientist who is kept in a monochrome environment all her life. she knows everything there is to know about vision and the physics of colour. she is suddenly presented with a red rose. will she learn anything new? if you think she does the thought experiment is an argument against physicalism.
+
+- **knowledge argument** : an argument illustrated by the thought experiment of mary the scientist who sees the world in black and white and then is given a coloured rose; is it possible to know all there is about colour without experiencing it? the knowledge argument is considered to be one of the strongest ripostes to materialism. 
+
+- **inverted spectrum** :  a thought experiment, whereby individuals 'see' different colors; for example, when I have a sensation of red, you have a sensation of blue. How could we ever know?
+
+
+- **nociceptor** : a specialist type of nerve cell that responds to potentially harmful or dangerous stimuli
+
+- **nociceptive pain** : Pain arising from activation of nociceptors by actual or potential tissue-damaging stimuli (as opposed to neuropathic pain).
+- **A-fibres** : Fast, myelinated afferent fibers (especially A‑delta) that convey sharp, well-localized pain and some temperature information.
+- **C-fibres** : Slow, unmyelinated afferent fibers that convey dull, diffuse, lingering pain (and some temperature/itch).
+- **gate control theory** : Melzack and Wall’s theory that the spinal cord “gate” modulates pain signals based on peripheral input and descending control.
+- **endorphins** : Endogenous opioid peptides (e.g., β‑endorphin) that bind opioid receptors to reduce pain and modulate stress and reward.
+
+
+
+- **argument by analogy (other minds)** : The inference that others have minds because their bodies and behaviors are relevantly like ours, which we know are accompanied by mentality.
+- **congenital analgesia** : A rare condition of being born without pain sensation, often with normal touch, leading to high risk of injury.
+- **dissociation** : A disruption in the normal integration of consciousness, memory, identity, perception, or control; experience and behavior can come apart.
+- **p-zombie** : A being physically and behaviorally identical to a human but lacking conscious experience; used in arguments about physicalism.
+- **epiphenomenalism** : The view that mental events are by-products of physical processes and exert no causal influence on the physical.
+- **conceivability** : Coherent imaginability of a scenario; often used in modal arguments (e.g., zombies) to suggest metaphysical possibility.
+
+
+
+
+
+
+
+
+
+- **reductive materialism** : The claim that mental states/properties are nothing over and above physical states/properties and can be reduced to them.
+
+- **mind–brain identity theory** : the thesis that mental states are identical to brain states.  
+
+- **type identity theory** : The identity view that kinds of mental states (types) are identical to kinds of brain states (e.g., pain = C‑fiber firing).
+- **multiple realisability** : The idea that the same mental state or function can be realized by different physical substrates or organizations.
+
+- **eliminative materialism** :  a materialist account of the mind body problem that says our everyday common sense “folk psychology” view of the world is wrong
+
+- **folk psychology** : Common-sense explanatory scheme of beliefs, desires, intentions, and emotions used to predict and explain behavior.
+
+
+
+
+
+
+
+
+
+
+- **functionalism** : the account of the mind-body relationship that states that all that matters is the causal or functional relationship between mental states. the mind performs computations. the details of what the functional relationships are implemented in doesn’t matter in the same way that a computer program does not need a specific arrangement of transistors to run.
+- **substrate independence** : the idea that it’s what computers and brains do - the software - that’s important
+
+
+
+- **neuroprothesis** :
+
+- **China brain** : Block’s thought experiment in which the population of China instantiates the functional organization of a brain, used to test views about consciousness and functionalism.
+
+
+- **syntax** : The formal structure and rules for manipulating symbols, independent of their meaning.
+- **semantics** : The meanings, references, or truth-conditions associated with symbols or representations.
+
+- **computation** : the use of well-defined algorithm or set of algorithms to generate an output. more broadly a metaphor for how the mind works
+
+- **strong AI** : The claim that an appropriately programmed computer literally has a mind and genuine understanding, not mere simulation.
+- **Chinese room** : Searle’s thought experiment arguing that executing syntax (a program) is insufficient for semantics/understanding.
+- **systems reply** : A response to the Chinese room: while the man doesn’t understand, the whole system (man + rules + symbols) does.
+
+
+- **dancing qualia** : Chalmers’s argument that if functional organization stays fixed across substrate changes, qualia can’t “dance” undetectably; supports organizational invariance.
+- **organisational invariance** : The principle that conscious experience depends only on a system’s abstract causal organization, not its material substrate.
+
+
+
+
+- **mysterianism** : The view (e.g., McGinn) that humans are cognitively closed to solving the hard problem of consciousness.
+- **cognitive closure** : The idea that some truths are in principle inaccessible to a type of mind given its cognitive capacities.
+- **non-reductive materialism** : Everything is physical, but mental properties are not reducible; they supervene on the physical and may have distinct causal roles.
+
+- **private knowledge** : knowledge to which only you have access 
+- **robot** : a machine controlled by a computer that is capable of interacting with the environment and that is capable of carrying out a complex sequence of actions automatically.  
+- **ego theory** : the theory of the self that says that there is a single unified self that  
+
+
+## {.smaller}
+### KEY TERMS 
+::::: columns
+::: {.column width="30%"}
+
+- mind-body problem 
+- philosophy of mind 
+- thought experiment 
+- intuition pump 
+- Swampman 
+- mind 
+- brain
+
+:::
+
+::: {.column width="30%"}
+
+- mereological fallacy 
+- qualia/quale 
+- dualism 
+- substance dualism/Cartesian dualism 
+- res extensa 
+- res cogitans 
+- pineal gland
+
+:::
+
+::: {.column width="30%"}
+
+- parallelism 
+- occasionalism 
+- dendron 
+- psychon 
+- property dualism 
+- emergentism 
+- monism 
+- idealism 
+- materialism/physicalism 
+- determinism
+
+:::
+:::::
+
+## {.smaller}
+### KEY TERMS (continued)
+::::: columns
+::: {.column width="30%"}
+
+
+- knowledge argument 
+- inverted spectrum 
+- nociceptive pain 
+- nociceptor 
+- A-fibres 
+- C-fibres 
+- gate control theory 
+- endorphins
+
+
+:::
+
+::: {.column width="30%"}
+
+- argument by analogy (other minds) 
+- congenital analgesia 
+- dissociation 
+- p-zombie 
+- epiphenomenalism 
+- conceivability 
+
+
+:::
+
+::: {.column width="30%"}
+
+ - reductive materialism 
+ - mind–brain identity theory 
+ - type identity theory 
+ - multiple realisability
+
+
+:::
+:::::
+
+
+## {.smaller}
+### KEY TERMS (continued)
+::::: columns
+::: {.column width="30%"}
+
+- eliminative materialism 
+- folk psychology 
+- functionalism 
+- substrate independence 
+
+
+
+:::
+
+::: {.column width="30%"}
+
+- neuroprothesis 
+- China brain 
+- computation 
+- syntax 
+- semantics 
+- strong AI 
+- Chinese room 
+- systems reply 
+
+:::
+
+::: {.column width="30%"}
+
+
+- dancing qualia 
+- organisational invariance 
+- mysterianism 
+- cognitive closure 
+- non-reductive materialism 
+- private knowledge 
+- robot 
+- ego theory
+
+:::
+:::::
+
+
+
+## {.smaller}
+### KEY TERMS 
+::::: columns
+::: {.column width="50%"}
+
+- mind-body problem 
+- philosophy of mind 
+- thought experiment 
+- intuition pump 
+- Swampman 
+- mind 
+- brain
+
+:::
+
+::: {.column width="50%"}
+
+- mereological fallacy 
+- qualia/quale 
+- dualism 
+- substance dualism/Cartesian dualism 
+- res extensa 
+- res cogitans 
+- pineal gland
+
+:::
+:::::
+
+

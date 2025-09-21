@@ -1,0 +1,444 @@
+---
+title: "<bold>The Mind-Body Problem</bold>"
+subtitle: "<br><br>Chapter 2  "
+format: 
+  revealjs:
+    slide-number: true
+    preview-links: auto
+    toc: true
+    toc-depth: 1
+    toc-title: "Chapter Contents"
+    title-slide-attributes:
+      data-background-image: gap.jpg
+      data-background-size: contain
+      data-background-opacity: '0.5'
+      data-background-position: center
+    theme: beige
+editor_options: 
+  chunk_output_type: console
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# Logic & Science
+
+::: {background-opacity="0.5" background-iframe="knowledge_domain_science.pdf" style="text-align: left; margin-top: 1em; auto-play-media: true"}
+## [Relationship: Theory vs Physical World](knowledge_domain_science.pdf){preview-link="true" style="text-align: center"}
+:::
+
+## Thought experiments
+
+-   Philosophers use thought experiments to uncover our intuitions and
+    biases about the mind
+    -   Framework to identify faulty logical assumptions and knowledge
+        gaps
+    -   Clears field to set up and characterize a valid problem
+    -   Restricted to abstract domain of Concepts and Theory
+-   Wikipedia
+    -   "A **thought experiment** is a
+        [hypothetical](https://en.wikipedia.org/wiki/Hypothesis "Hypothesis")
+        situation in which a
+        [hypothesis](https://en.wikipedia.org/wiki/Hypothesis "Hypothesis"),
+        [theory](https://en.wikipedia.org/wiki/Theory "Theory"),^[\[a\]](https://en.wikipedia.org/wiki/Thought_experiment#cite_note-%C3%98rsted1811-2)^
+        or
+        [principle](https://en.wikipedia.org/wiki/Principle "Principle")
+        is laid out for the purpose of thinking through its
+        consequences. "
+
+## 
+
+![](Schrodingers_cat.png)
+
+[^1]
+
+[^1]: [Schrödinger's
+    cat](https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat "Schrödinger's cat")
+    (1935) presents a cat that is in a superposition of alive and dead
+    states, depending on a random
+    [quantum](https://en.wikipedia.org/wiki/Quantum_indeterminacy "Quantum indeterminacy")
+    event. It illustrates the counter-intuitive implications of Bohr's
+    [Copenhagen
+    interpretation](https://en.wikipedia.org/wiki/Copenhagen_interpretation "Copenhagen interpretation")
+    when applied to everyday objects.
+
+## The mind and the brain
+
+-   The mind-brain problem
+    -   defines relationships between physical and mental events
+-   How do mental states arise from a physical brain?
+
+## The mereological fallacy
+
+-   Does saying “My brain feels pain” make sense?
+
+-   What about “the brain recognizes words”?
+
+-   Paul Nunez will have much more to say about the issues of
+    parts/wholes and what is top/bottom
+
+    -   [WP: Fallacy of the single
+        cause](https://en.wikipedia.org/wiki/Fallacy_of_the_single_cause)
+    -   [WP: Sufficient
+        Causes](https://en.wikipedia.org/wiki/Necessity_and_sufficiency#Sufficiency)
+
+::: aside
+[Stanford Encyclopedia of
+Philosophy](https://plato.stanford.edu/entries/mereology/index.html)
+Mereology (from the Greek μερος, ‘part’) is the theory of parthood
+relations: of the relations of part to whole and the relations of part
+to part within a whole)
+:::
+
+## Qualia
+
+-   The subjective quality of perceptions
+-   Sensations
+    -   The colour red
+    -   The smell of a rose
+    -   The feeling of pain
+-   How would you describe “red” to someone else?
+
+## Try this: Describing red
+
+-   Choose something with prominent qualia, such as a red rose (see
+    figure 2.1). How would you describe it to someone else? How would
+    you describe colour to someone without sight?
+
+## 
+
+## Try this: How many qualia?
+
+-   Stop and consider your environment.
+-   How many qualia can you become aware of?
+-   Can you be aware of more than one at a time?
+
+# Ontologic Issues
+
+## Dualism and monism
+
+-   René Descartes and substance dualism (Cartesian dualism)
+    -   Res cogitans and Res extensa
+-   Other types of dualism
+-   Monism (several kinds?)
+
+## Dualism
+
+-   There are two types of substance
+    -   Mind and matter
+    -   But how do they interact?
+
+## Monism
+
+-   There is one type of matter
+    -   Usually physical monism and matter
+        -   But doesn’t have to be
+-   How does physical matter give rise to subjective experience?
+
+## The knowledge argument
+
+![](DALL·E%202024-08-15%2013.11.49%20-%20A%20before%20and%20after%20image%20illustrating%20the%20concept%20of%20qualia,%20particularly%20the%20experience%20of%20Mary%20The%20Color%20Scientist%20gaining%20color%20vision.%20The%20left%20si.webp)
+
+::: notes
+-The following thought experiment was devised by the philosopher Frank
+Jackson, and is called the knowledge argument (because Mary, the
+protagonist of the story, has complete knowledge of the world but
+limited experience of it). Let‚Äôs imagine a woman we call Mary
+(Jackson, 1986). Mary has been brought up by an evil philosopher, and
+let's call him Frank. - Before opening her eyes at birth, Mary was given
+a special pair of contact lenses that turns the world monochrome, so
+that she only ever sees the world in black, white, and shades of grey.
+
+-   Mary devotes her life to studying everything to do with colour
+    vision -- the physics of colour, the biology of colour vision, the
+    neuroscience of colour vision--and by the time she's thirty-five she
+    knows everything there is to know about how humans see colour. It
+    might well be that to understand colour vision properly she will
+    have to end up learning everything there is to know about the world,
+    but Mary is extremely clever and has a phenomenal memory, and plenty
+    of time.
+-   Then on her thirty-fifth birthday she is given a red rose and her
+    contact lenses are taken out. What will Mary say? Will she learn
+    anything new about colour, or not? Will she be surprised?
+:::
+
+## Mary the Color Scientist
+
+1\. How does the 'Mary' color thought experiment make us rethink the
+idea that all knowledge comes from physical facts? Do you think science
+alone can fully explain consciousness or does Mary’s experience suggest
+there’s something more going on?
+
+## Mary the Color Scientist
+
+\
+2. Why do you think Mary’s first experience of seeing color is such a
+big deal for understanding consciousness? What’s the difference between
+knowing something in theory and actually experiencing it? Can you argue
+that although Mary spent her life studying colors, she didn't know
+everything there was to know about color?
+
+## Mary the Color Scientist
+
+\
+3. How does the 'Mary" color thought experiment highlight the difficulty
+in explaining qualia (subjective experiences) using only physical
+factors?
+
+## Mary the Color Scientist
+
+\
+4. If Mary had devoted her life to studying consciousness, do you think
+she would have a different understanding of consciousness?
+
+## Mary the Color Scientist
+
+(Explaining implicit "knowledge" that comes directly from experience.)
+
+## The inverted colour spectrum
+
+-   Could you “see” violet when I “see” red?
+    ![](Trevor%20A.%20Harley_fig.%202_6.jpg){.absolute top="200"
+    left="-10" height="380"}
+
+![](De_Valois_and_Webster_Color_Vision_fig_2-2.jpg){.absolute top="180"
+right="-50" height="230"}
+![](De_Valois_and_Webster_Color_Vision_fig_3.jpg){.absolute bottom="0"
+right="0" height="200"}
+
+::: aside
+http://www.scholarpedia.org/article/Color_vision
+:::
+
+## Colour Perception
+
+![](fig_9_17.png){.absolute top="200" left="-10" height="400"}
+![](fig_9_24.png){.absolute top="200" right="-50" height="400"}
+
+## Dualism vs Monism {.scrollable}
+
+| Topic/Concept/Thought Experiment | Dualism | Monism |
+|----|----|----|
+| Substance Dualism | Proposes that mind and matter are fundamentally different substances. Fits well with intuitive experiences and beliefs about the soul. | N/A |
+| Problems with Substance Dualism | Faces the issue of how mind and matter interact; also, mental material is not accessible through physical or scientific methods. | N/A |
+| Parallelism and Occasionalism | Attempts to explain the interaction between mind and matter through divine intervention. | N/A |
+| Property Dualism | Introduces the concept that there is one substance but two kinds of properties: physical and mental. | N/A |
+| Emergentism | N/A | A form of property dualism; mental properties emerge when matter is organized in certain complex ways. |
+| Idealism | N/A | Proposes that the world is fundamentally mental; material objects exist only in the mind. |
+| Materialism/Physicalism | N/A | Proposes that only physical matter exists, governed by the laws of physics. |
+| Neutral Monism | N/A | Suggests that mind and matter are different aspects of a single substance. |
+| The "Mary" Colour Experiment | Supports the idea that subjective experience (qualia) cannot be fully explained by physical properties alone. | Challenges materialism by suggesting that complete physical knowledge is insufficient to account for subjective experience. |
+| Dennett's Counterargument | N/A | Argues that complete knowledge would indeed prepare Mary for the experience of color, thus no "hard problem" exists. |
+| Churchland's Argument | N/A | Suggests that experience offers a different kind of knowledge ("knowledge-by-acquaintance") but doesn't necessarily introduce new facts. |
+
+## 
+
+![](MagrittePipe.jpg)
+
+[René
+Magritte](https://en.wikipedia.org/wiki/List_of_paintings_by_Ren%C3%A9_Magritte)
+
+## 
+
+::::: columns
+::: {.column width="50%"}
+![](MagrittePipe.jpg) ![](Golconde.jpg)
+:::
+
+::: {.column width="50%"}
+![](son-of-man-1964.jpg)
+:::
+:::::
+
+[René
+Magritte](https://en.wikipedia.org/wiki/List_of_paintings_by_Ren%C3%A9_Magritte)
+
+## Intro
+
+\
+We'll explore consciousness through three exercises. First, in a
+**Turing Test**, one of you will convince another that you're conscious.
+Next, in a **Reverse Turing Test**, you'll argue that one student
+(playing as ChatGPT) is conscious while the other denies it. Lastly, a
+**three-person version** will involve one student playing ChatGPT,
+another arguing they're conscious, and a third evaluating the debate.
+These activities will help to assess and better understand how we
+recognize and argue for consciousness, using reasoning from Chapter 2.\
+
+## **Regular Turing Test Exercise:**
+
+Choose a partner who’s role is to convince ChatGPT (the other student
+role-playing) that they are conscious.
+
+    Sample questions:
+
+        "How would you prove that you're experiencing something right
+now? Can you describe it?"
+
+        "What differentiates your thoughts from a machine’s programmed
+responses?"
+
+        "If I claim you’re just responding based on learned behavior,
+how would you disprove that?"
+
+## 
+
+**Reverse Turing Test Exercise:**
+
+Take turns trying to convince the other that you are conscious. The
+other’s role is to deny their claims.
+
+    Sample questions:
+
+        "What observable behaviors or qualities make someone conscious?
+How do you know I have those?"
+
+        "Is there any objective evidence that proves consciousness, or
+is it purely subjective?"
+
+        "If I deny being conscious, how would you refute that without
+relying on my own descriptions?"
+
+## 
+
+**Three-Person Version:**
+
+One student is ChatGPT, another argues that the first student is
+conscious, and a third student assesses both sides, determining who has
+the stronger argument.
+
+    Questions:
+
+        "What observable behaviors would lead you to conclude someone is
+conscious?"
+
+        "How does language or behavior play into our assumptions about
+consciousness in others?"
+
+        "If two people disagree on someone else’s consciousness, how can
+we resolve that disagreement?"
+
+## The problem of pain
+
+-   The physical aspect of pain
+-   The mental aspect of pain
+-   Pain in babies (27 weeks is gestation; 2nd trimester)
+
+::: aside
+Kolodny, O., Moyal, R., & Edelman, S. (2021). A possible evolutionary
+function of phenomenal conscious experience of pain. Neuroscience of
+consciousness, 2021(2), niab012. https://doi.org/10.1093/nc/niab012
+:::
+
+## P-ZOMBIES
+
+-   Philosophical zombies
+
+    -   Could we have a creature that appears in every way to be
+        conscious, but isn’t?
+
+-   Is consciousness essential?
+
+-   Being conceivable
+
+::: notes
+:::
+
+## Materialism
+
+-   A type of monism
+-   All there is is matter
+-   Physics captures everything
+
+## More materialism
+
+-   Reductive materialism
+
+-   Eliminative materialism
+
+    -   Getting rid of the problem of qualia
+    -   A trick of how we think and speak
+
+::: notes
+:::
+
+## Functionalism
+
+-   Silicon neurons and silicon brains
+-   The "China brain" thought experiment
+    -   Can the population of China signal and act like a brain?
+    -   *Conversely*: can a neuron be conscious?
+
+::: notes
+-   what's necessary for a function?
+-   What are some problems with this?
+-   There is a lot about a nation that is like an organism. What about
+    our def of the function of consciousness might be comparable?
+:::
+
+## A Function for Consciousness?
+
+-   <https://en.wikipedia.org/wiki/Function>
+-   <https://en.wikipedia.org/wiki/Function_(biology)>
+
+# Epistemic Issues
+
+## Neurons
+
+![](Trevor%20A.%20Harley_fig.%202_10.jpg){.absolute top="0" right="100"
+height="300"}
+
+::: {.column width="50%"}
+-   The brain has about 100 billion neurons.
+-   Each neuron might be connected to about 1000 others.
+-   Does consciousness really arise from just a lot of these connected
+    together?
+:::
+
+::: notes
+Figure 2.10. A neuron. A nerve cell - the brain has about 100 billion of
+them, and each neuron might be connected to a 1000 others. Does
+consciousness really arise from just a lot of these connected together?
+:::
+
+## Arguments against functionalism
+
+-   Searle and the Chinese room
+-   All syntax and no semantics
+-   Is the “systems reply” adequate?
+
+::: notes
+-   I can navigate anywhere in Gainesville if I have GPS and Google
+    maps. Limited number of places w/o phone. Does this mean that I
+    don't know how to navigate?
+-   The cockpit of the plane that Captain Sully flew was arranged to
+    make it possible for him to land the plane on the Hudson. Does this
+    mean that the plane saved the day?
+:::
+
+## Mysterianism
+
+-   The problem of consciousness is too complex for our (human) minds
+-   It is like Beau the poodle trying to understand the nature of
+    language and grammar: it is beyond the capabilities of his brain
+
+##  {background-color="black" background-image="j_w.jpg" background-size="contain" background-opacity="1.0"}
+
+## What is it like to be a worm?
+
+![](imgs/worm.png){.absolute bottom="0" left="-50" height="200"}
+![](imgs/open_worm.png){.absolute bottom="0" right="-50" height="300"}
+
+::: notes
+-   http://www.openworm.org
+-   https://openworm.org/science.html
+:::
+
+## Summary
+
+-   What is the difference between mind and brain?
+-   The hard problem is why does it feel like something to be you
+-   How can the feeling of something, mind, arise from a purely physical
+    system?
+-   How many types of substance are there?
+-   Does materialism / physicalism completely describe the universe?

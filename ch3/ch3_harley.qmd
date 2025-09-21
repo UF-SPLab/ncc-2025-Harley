@@ -1,0 +1,223 @@
+---
+title: "<bold>Do We Have Free Will?</bold>"
+subtitle: "<br>Chapter 3<br><br><br><br>"
+format: 
+  revealjs:
+    slide-number: true
+    preview-links: auto
+    toc: true
+    toc-depth: 1
+    toc-title: "Chapter Contents"
+    theme: dark
+    title-slide-attributes:
+      data-background-image: consoles.jpg
+      data-background-size: contain
+      data-background-opacity: '0.8'
+      data-background-position: bottom
+    transition: fade
+    transition-speed: fast
+editor_options: 
+  chunk_output_type: console
+---
+
+# What is Determinism?
+
+
+::: {background-opacity="0.5" background-iframe="" style="text-align: left; margin-top: 1em; auto-play-media: true"}
+## [](){preview-link="true" style="text-align: center"}
+:::
+
+
+
+
+## People and objects {background-image="pool_sim.gif" background-color="black" background-opacity=0.4}
+
+
+:::{.fragment}
+
+- What happens if you hit a ball at the pool table?
+
+:::
+:::{.fragment}
+
+- If you could measure everything accurately enough, you would be able to predict exactly where every ball ends up
+:::
+
+:::{.fragment}
+
+- Are our lives like this?
+:::
+
+## People and objects {background-image="pool_sim2.gif" background-color="black" background-opacity=0.3}
+
+:::{.fragment}
+
+- The behaviour of objects is determined by physical forces - they have no choice in their behaviour
+
+:::
+:::{.fragment}
+
+- People (and maybe other animals too) seem to be different
+
+:::
+:::{.fragment}
+
+- We have appear to be able to choose what we do
+
+:::
+
+
+## Rehoboam {background-color="black" background-image="Opening-Titles-Rehoboam.jpg" background-size="contain" background-opacity=0.7}
+
+::: {.blockquote}
+
+>Rehoboam is a Quantum AI computer system owned and operated by the Incite corporation. It is used for the social engineering of whole populations.
+Rehoboam's main function is to impose an order to human affairs by careful manipulation and prediction of the future made possible by analysis of the large data set Incite have collected.
+
+::: 
+
+
+# Determinism and/or free will?
+
+## Determinism and/or free will?
+
+- Human behavior
+- Dualism and free will
+- Why does mind being a different substance help with the problem?
+
+## Determinism and free will
+
+- Determinism is the idea that everything in the world is determined by physical forces
+    - Paul Nunez has a much better probabilistic definition: 
+      - *a range of positions in which future events are fully or mostly determined by current conditions.*
+- Free-will is the idea that we have a choice
+
+
+# Problems with Free-Will
+
+## Is free will an illusion?:
+
+- We appear to ourselves to have free will, but perhaps it is just an illusion
+
+
+## Quantum mechanics
+
+- Quantum mechanics & probabilistic determination don’t help
+   - We still don’t have any choice
+   - Having apparent "choice" determined by a chance event is still being determined by something else
+
+## The homunculus in the Cartesian theatre
+
+- An homunculus is a small being sitting in another one watching what is going on and deciding to act
+- The homunculus is in a Cartesian theatre where all sensory information is displayed
+
+## The benefits of believing in free will
+
+- If it is an illusion, what are the advantages of believing that we have free will?
+- It enables us to tell a story about our lives - Wegner
+- It affects how we behave (maybe?) 
+
+## Compatibilism
+
+- Compatibilism is the idea that free will is compatible with determinism after all
+- But how?
+
+# Behavior and Making Decisions
+
+## Environmental effects on behaviour
+
+- Our behaviour is clearly determined by many facets of the environment
+(maybe) We are the sum of our genes and past
+
+## Crime and punishment
+
+- Moral responsibility
+(maybe) The role of psychology in understanding crime
+
+## Punishment
+
+- What is the purpose of punishment if someone had no choice?
+
+## Deterrence
+
+- Should we punish or treat psychopaths?
+- Differences in the structure of the amygdala in people with psychopathy
+
+## Deciding to act
+
+![](Bereitschaftspotenzial_fig1.jpg)
+
+
+[Neuroscience of Free Will](https://en.wikipedia.org/wiki/Neuroscience_of_free_will)
+
+:::{.notes}
+
+On several different levels, from neurotransmitters through neuron firing rates to overall activity, the brain seems to "ramp up" before movements. This image depicts the readiness potential (RP), a ramping-up activity measured using EEG. The onset of the RP begins before the onset of a conscious intention or urge to act. Some have argued that this indicates the brain unconsciously commits to a decision before consciousness awareness. Others have argued that this activity is due to random fluctuations in brain activity, which drive arbitrary, purposeless movements
+
+:::
+
+## Libet's experiments on "voluntary" movement
+
+![](B.Libet.experiment.gif){.absolute top="120" right="100" height="200"}
+
+- 2-stage model
+
+![](Brain_Activity_Before_Voluntary_Action_A.jpg){.absolute bottom="0" right="100" height="300"}
+
+## Libet's experiments on "voluntary" movement
+
+![](B.Libet.experiment.gif){.absolute top="120" right="100" height="200"}
+
+
+![](Brain_Activity_Before_Voluntary_Action_B.jpeg){.absolute bottom="0" right="100" height="300"}
+
+
+
+## Libet's experiments on "voluntary" movement
+
+![](B.Libet.experiment.gif){.absolute top="120" right="100" height="200"}
+
+
+![](Brain_Activity_Before_Voluntary_Action_C.jpg){.absolute bottom="0" right="100" height="300"}
+
+
+## Libet's experiments on "voluntary" movement
+
+- Criticisms of Libet's experiment
+   - Experience of "will" is subtle or vague 
+   - A clock is not precise
+   - Large signal when person doesn't even move
+   - More in brain involved than SMA
+   - Simplistic
+
+
+## Measuring brain activity with EEG
+
+- We can measure action and apparent decision making with brain imaging techniques
+
+## Involuntary action
+
+- Skill and habit
+  - driving
+  - brain surgery
+- Psychological compulsions
+  - tics, anxious behaviors, etc.
+
+## Alien hand syndrome
+
+- When the hand is not under the control of the mind
+
+## Skill and habit
+
+- As we become more practised at a skill actions change from voluntary to automatic
+
+## Compulsions
+
+- We sometimes feel compelled to do things against our will
+
+- OCD (obsessive-compulsive disorder)
+
+## Summary
+
+- Free will is the sense that we are in control of our destinies and can choose between alternatives
+- But in a deterministic universe, how can this feeling be anything other than an illusion?
