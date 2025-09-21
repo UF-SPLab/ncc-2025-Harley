@@ -42,8 +42,8 @@ editor: visual
 -   What is it like to be something else?
 
 Key Terms
-: [consciousness]{.tip data-tip="Subjective experience and awareness of the world and self." data-pos="right"}
 
+:   [consciousness]{.tip data-tip="Subjective experience and awareness of the world and self." data-pos="right"}
 
 ## Thomas Nagel {.scrollable background-color="black"}
 
@@ -307,7 +307,6 @@ What do we mean by a normal state of consciousness? What causes an alteration in
 Using the scientific tools we have can we even give a complete account of consciousness?
 :::
 
-
 ##  {.smaller}
 
 ### KEY TERMS
@@ -389,7 +388,6 @@ Using the scientific tools we have can we even give a complete account of consci
 -   [augmentation]{.tip data-tip="A device replacing or extending the brain’s functionality." data-pos="right"}
 :::
 ::::::
-
 
 ##  {.smaller}
 

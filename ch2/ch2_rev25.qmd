@@ -22,6 +22,7 @@ editor:
     wrap: 72
 ---
 
+# Ontologic Issues: Thought experiments 
 
 ## Thought experiments
 
@@ -65,13 +66,15 @@ editor:
 ::::: columns
 ::: {.column width="50%"}
 
+- [embodiment]{.tip data-tip="The " data-pos="right"}
 
-- **mind-body problem** : the problem of how private experience and subjective awareness can arise from the objective matter that comprises neurons and the brain.
+- [**mind-body problem**]{.tip data-tip="the problem of how private experience and subjective awareness can arise from the objective matter that comprises neurons and the brain." data-pos="right"}
 
-- **philosophy of mind** : The branch of philosophy that studies mind, consciousness, mental states, and their relations to the brain, body, and world.
+- [**philosophy of mind**]{.tip data-tip="The branch of philosophy that studies mind, consciousness, mental states, and their relations to the brain, body, and world." data-pos="right"}
 
-- **thought experiment** : the process of investigating our beliefs about the mind by taking some scenario and thinking through the consequences; examples include mary the scientist when considering the knowledge argument.
-- **intuition pump** : a term coined by dennett to refer to a small thought problem constructed to garner our intuitions about important philosophical questions. bear in mind our intuitions might not always be correct.
+- [**thought experiment**]{.tip data-tip="the process of investigating our beliefs about the mind by taking some scenario and thinking through the consequences; examples include mary the scientist when considering the knowledge argument." data-pos="right"}
+
+- [**intuition pump**]{.tip data-tip="a term coined by dennett to refer to a small thought problem constructed to garner our intuitions about important philosophical questions. bear in mind our intuitions might not always be correct." data-pos="right"}
 
 
 
@@ -81,15 +84,17 @@ editor:
 
 
 
-- **mereological fallacy** : confusing the brain and mind by making statements such as “the brain believes”, when it is only a mind that can believe.
-- **qualia/quale** : the elements of sensation; the individual components of conscious experience
+- [**mereological fallacy**]{.tip data-tip="confusing the brain and mind by making statements such as “the brain believes”, when it is only a mind that can believe." data-pos="right"}
 
-- **substance dualism/Cartesian dualism** : the same as cartesian dualism - the idea that there are two basic types of substance, mind and matter.
+- [**qualia/quale**]{.tip data-tip="the elements of sensation; the individual components of conscious experience" data-pos="right"}
 
-- **res extensa** : “Extended substance” in Descartes: matter that occupies space.
-- **res cogitans** : “Thinking substance” in Descartes: mind or consciousness.
+- [**substance dualism/Cartesian dualism**]{.tip data-tip="the same as cartesian dualism - the idea that there are two basic types of substance, mind and matter." data-pos="right"}
 
-- **pineal gland** : A small gland near the centre of the brain between the two hemispheres. Thought to be the seat of the soul and where mind interacts with matter by Descartes, it produces melatonin.
+- [**res extensa**]{.tip data-tip="“Extended substance” in Descartes: matter that occupies space." data-pos="right"}
+
+- [**res cogitans**]{.tip data-tip="“Thinking substance” in Descartes: mind or consciousness." data-pos="right"}
+
+- [**pineal gland**]{.tip data-tip="A small gland near the centre of the brain between the two hemispheres. Thought to be the seat of the soul and where mind interacts with matter by Descartes, it produces melatonin." data-pos="right"}
 
 
 
@@ -206,24 +211,21 @@ to part within a whole)
 
 
 
-# Ontologic Issues
-
-
-
 ## {.scrollable .smaller}
 ### KEY TERMS 
 ::::: columns
 ::: {.column width="50%"}
 
 
-- **monism** : the doctrine that says that there is only one type of substance - mind or matter. contrast dualism.  
-- **dualism** : the idea that there are two basic sorts of substance - that mind and matter are completely different kinds of thing. contrast monism.  
+- [**monism**]{.tip data-tip="the doctrine that says that there is only one type of substance - mind or matter. contrast dualism." data-pos="right"}
 
-- **idealism** : a form of monism that says that mind is all there is. 
+- [**dualism**]{.tip data-tip="the idea that there are two basic sorts of substance - that mind and matter are completely different kinds of thing. contrast monism." data-pos="right"}
 
-- **materialism/physicalism** : the philosophical proposal that matter is the only fundamental kind of stuff in the universe, and all processes, including consciousness, can be explained in terms of matter.
+- [**idealism**]{.tip data-tip="a form of monism that says that mind is all there is." data-pos="right"}
 
-- **determinism** : the notion that everything is already determined by previous events. the laws of physics mean that every event now can only have one outcome, which has already been determined. Superficially, at least determinism rules out free will, as the outcome of choices has already been determined.
+- [**materialism/physicalism**]{.tip data-tip="the philosophical proposal that matter is the only fundamental kind of stuff in the universe, and all processes, including consciousness, can be explained in terms of matter." data-pos="right"}
+
+- [**determinism**]{.tip data-tip="the notion that everything is already determined by previous events. the laws of physics mean that every event now can only have one outcome, which has already been determined. Superficially, at least determinism rules out free will, as the outcome of choices has already been determined." data-pos="right"}
 
 
 
@@ -232,14 +234,17 @@ to part within a whole)
 ::: {.column width="50%"}
 
 
-- **parallelism** : The view that mental and physical events run in coordinated parallel without direct causal interaction (e.g., Leibniz’s pre-established harmony).
-- **occasionalism** : The view that God (or a fundamental cause) coordinates mental and physical events on each “occasion”; no direct mind–body causation.
-- **dendron** : In Eccles’s dualist-interactionist model, a functional cluster of cortical dendrites posited as the neural unit that interfaces with the mind.
-- **psychon** : In Eccles’s model, a putative unit of conscious experience or intention that interacts with a dendron.
+- [**parallelism**]{.tip data-tip="The view that mental and physical events run in coordinated parallel without direct causal interaction (e.g., Leibniz’s pre-established harmony)." data-pos="right"}
 
-- **property dualism** : One kind of substance (physical) but with irreducible mental properties that depend on, yet are not identical to, physical properties.
+- [**occasionalism**]{.tip data-tip="The view that God (or a fundamental cause) coordinates mental and physical events on each “occasion”; no direct mind–body causation." data-pos="right"}
 
-- **emergentism or emergence** : the way in which complex properties and behaviour emerge from the interaction of many simple properties.  
+- [**dendron**]{.tip data-tip="In Eccles’s dualist-interactionist model, a functional cluster of cortical dendrites posited as the neural unit that interfaces with the mind." data-pos="right"}
+
+- [**psychon**]{.tip data-tip="In Eccles’s model, a putative unit of conscious experience or intention that interacts with a dendron." data-pos="right"}
+
+- [**property dualism**]{.tip data-tip="One kind of substance (physical) but with irreducible mental properties that depend on, yet are not identical to, physical properties." data-pos="right"}
+
+- [**emergentism or emergence**]{.tip data-tip="the way in which complex properties and behaviour emerge from the interaction of many simple properties." data-pos="right"}
 
 
 
@@ -270,6 +275,7 @@ to part within a whole)
 -   How does physical matter give rise to subjective experience?
 
 
+# Ontologic Issues: Knowledge
 
 ## {.scrollable .smaller}
 ### KEY TERMS 
@@ -277,17 +283,22 @@ to part within a whole)
 ::: {.column width="50%"}
 
 
-- **knowledge argument** : An argument illustrated by the thought experiment of Mary the scientist who sees the world in black and white and then is given a coloured rose; Is it possible to know all there is about colour without experiencing it? The knowledge argument is considered to be one of the strongest ripostes to materialism. 
+- [**knowledge argument**]{.tip data-tip="An argument illustrated by the thought experiment of Mary the scientist who sees the world in black and white and then is given a coloured rose; Is it possible to know all there is about colour without experiencing it? The knowledge argument is considered to be one of the strongest ripostes to materialism." data-pos="right"}
 
-- **inverted spectrum** : A thought experiment, whereby individuals "see" different colors; for example, when I have the sensation of red, you have the sensation of blue. How could we ever know? 
+- [**inverted spectrum**]{.tip data-tip="A thought experiment, whereby individuals 'see' different colors; for example, when I have the sensation of red, you have the sensation of blue. How could we ever know?" data-pos="right"}
 
 
-- **argument by analogy (other minds)** : The inference that others have minds because their bodies and behaviors are relevantly like ours, which we know are accompanied by mentality.
-- **congenital analgesia** : A rare condition of being born without pain sensation, often with normal touch, leading to high risk of injury.
-- **dissociation** : A disruption in the normal integration of consciousness, memory, identity, perception, or control; experience and behavior can come apart.
-- **p-zombie** : A being physically and behaviorally identical to a human but lacking conscious experience; used in arguments about physicalism.
-- **epiphenomenalism** : The view that mental events are by-products of physical processes and exert no causal influence on the physical.
-- **conceivability** : Coherent imaginability of a scenario; often used in modal arguments (e.g., zombies) to suggest metaphysical possibility.
+- [**argument by analogy (other minds)**]{.tip data-tip="The inference that others have minds because their bodies and behaviors are relevantly like ours, which we know are accompanied by mentality." data-pos="right"}
+
+- [**congenital analgesia**]{.tip data-tip="A rare condition of being born without pain sensation, often with normal touch, leading to high risk of injury." data-pos="right"}
+
+- [**dissociation**]{.tip data-tip="A disruption in the normal integration of consciousness, memory, identity, perception, or control; experience and behavior can come apart." data-pos="right"}
+
+- [**p-zombie**]{.tip data-tip="A being physically and behaviorally identical to a human but lacking conscious experience; used in arguments about physicalism." data-pos="right"}
+
+- [**epiphenomenalism**]{.tip data-tip="The view that mental events are by-products of physical processes and exert no causal influence on the physical." data-pos="right"}
+
+- [**conceivability**]{.tip data-tip="Coherent imaginability of a scenario; often used in modal arguments (e.g., zombies) to suggest metaphysical possibility." data-pos="right"}
 
 
 
@@ -298,17 +309,22 @@ to part within a whole)
 ::: {.column width="50%"}
 
 
-- **nociceptor** : a specialist type of nerve cell that responds to potentially harmful or dangerous stimuli, sending messages to the spinal cord and brain.
+- [**nociceptor**]{.tip data-tip="a specialist type of nerve cell that responds to potentially harmful or dangerous stimuli, sending messages to the spinal cord and brain." data-pos="right"}
 
-- **nociceptive pain** : Pain arising from activation of nociceptors by actual or potential tissue-damaging stimuli (as opposed to neuropathic pain).
-- **A-fibres** : Fast, myelinated afferent fibers (especially A‑delta) that convey sharp, well-localized pain and some temperature information.
-- **C-fibres** : Slow, unmyelinated afferent fibers that convey dull, diffuse, lingering pain (and some temperature/itch).
-- **gate control theory** : Melzack and Wall’s theory that the spinal cord “gate” modulates pain signals based on peripheral input and descending control.
-- **endorphins** : Endogenous opioid peptides (e.g., β‑endorphin) that bind opioid receptors to reduce pain and modulate stress and reward.
+- [**nociceptive pain**]{.tip data-tip="Pain arising from activation of nociceptors by actual or potential tissue-damaging stimuli (as opposed to neuropathic pain)." data-pos="right"}
+
+- [**A-fibres**]{.tip data-tip="Fast, myelinated afferent fibers (especially A‑delta) that convey sharp, well-localized pain and some temperature information." data-pos="right"}
+
+- [**C-fibres**]{.tip data-tip="Slow, unmyelinated afferent fibers that convey dull, diffuse, lingering pain (and some temperature/itch)." data-pos="right"}
+
+- [**gate control theory**]{.tip data-tip="Melzack and Wall’s theory that the spinal cord “gate” modulates pain signals based on peripheral input and descending control." data-pos="right"}
+
+- [**endorphins**]{.tip data-tip="Endogenous opioid peptides (e.g., β‑endorphin) that bind opioid receptors to reduce pain and modulate stress and reward." data-pos="right"}
 
 
 :::
 :::::
+
 
 
 
@@ -418,6 +434,35 @@ http://www.scholarpedia.org/article/Color_vision
 | Relation to Other Colors     | The idea that something is left over about the "redness of red" and the "greenness of green" that isn't captured by their relation to other colors could be seen as a point in favor of dualism. | If the experience of colors can be fully described in terms of their relations to other colors and their positions in color space, this would support monism. |
 
 
+## The problem of pain
+
+-   The physical aspect of pain
+-   The mental aspect of pain
+-   Pain in babies (27 weeks is gestation; 2nd trimester)
+
+::: aside
+Kolodny, O., Moyal, R., & Edelman, S. (2021). A possible evolutionary
+function of phenomenal conscious experience of pain. Neuroscience of
+consciousness, 2021(2), niab012. https://doi.org/10.1093/nc/niab012
+:::
+
+## P-ZOMBIES
+
+-   Philosophical zombies
+
+    -   Could we have a creature that appears in every way to be
+        conscious, but isn’t?
+
+-   Is consciousness essential?
+
+-   Being conceivable
+
+::: notes
+:::
+
+
+
+# Ontologic Issues: Mind-Brain Problem
 
 ## Dualism vs Monism {.scrollable .smaller}
 
@@ -460,35 +505,7 @@ Magritte](https://en.wikipedia.org/wiki/List_of_paintings_by_Ren%C3%A9_Magritte)
 
 
 
-## The problem of pain
-
--   The physical aspect of pain
--   The mental aspect of pain
--   Pain in babies (27 weeks is gestation; 2nd trimester)
-
-::: aside
-Kolodny, O., Moyal, R., & Edelman, S. (2021). A possible evolutionary
-function of phenomenal conscious experience of pain. Neuroscience of
-consciousness, 2021(2), niab012. https://doi.org/10.1093/nc/niab012
-:::
-
-## P-ZOMBIES
-
--   Philosophical zombies
-
-    -   Could we have a creature that appears in every way to be
-        conscious, but isn’t?
-
--   Is consciousness essential?
-
--   Being conceivable
-
-::: notes
-:::
-
-
-
-
+# Epistemic Issues: Materialism
 
 ## Materialism
 
@@ -506,17 +523,17 @@ consciousness, 2021(2), niab012. https://doi.org/10.1093/nc/niab012
 
 
 
-- **reductive materialism** : The claim that mental states/properties are nothing over and above physical states/properties and can be reduced to them.
+- [**reductive materialism**]{.tip data-tip="The claim that mental states/properties are nothing over and above physical states/properties and can be reduced to them." data-pos="right"}
 
-- **mind–brain identity theory** : the thesis that mental states are identical to brain states.  
+- [**mind–brain identity theory**]{.tip data-tip="the thesis that mental states are identical to brain states. " data-pos="right"} 
 
-- **type identity theory** : The identity view that kinds of mental states (types) are identical to kinds of brain states (e.g., pain = C‑fiber firing).
+- [**type identity theory**]{.tip data-tip="The identity view that kinds of mental states (types) are identical to kinds of brain states (e.g., pain = C‑fiber firing)." data-pos="right"}
 
-- **multiple realisability** : The idea that the same mental state or function can be realized by different physical substrates or organizations.
+- [**multiple realisability**]{.tip data-tip="The idea that the same mental state or function can be realized by different physical substrates or organizations." data-pos="right"}
 
-- **eliminative materialism** :  a materialist account of the mind body problem that says our everyday common sense “folk psychology” view of the world is wrong, and that some of the mental states we think exist in fact do not. We are fooled by our language into thinking that "believe" and "desire" refer to real things.
+- [**eliminative materialism**]{.tip data-tip="A materialist account of the mind body problem that says our everyday common sense 'folk psychology' view of the world is wrong, and that some of the mental states we think exist in fact do not. We are fooled by our language into thinking that 'believe' and 'desire' refer to real things." data-pos="right"}
 
-- **folk psychology** : Common-sense explanatory scheme of beliefs, desires, intentions, and emotions used to predict and explain behavior.
+- [**folk psychology**]{.tip data-tip="Common-sense explanatory scheme of beliefs, desires, intentions, and emotions used to predict and explain behavior." data-pos="right"}
 
 
 :::
@@ -548,50 +565,7 @@ consciousness, 2021(2), niab012. https://doi.org/10.1093/nc/niab012
 
 
 
-
-## {.scrollable .smaller}
-### KEY TERMS 
-::::: columns
-::: {.column width="50%"}
-
-
-
-- **functionalism** : the account of the mind-body relationship that states that all that matters is the causal or functional relationship between mental states. the mind performs computations. the details of what the functional relationships are implemented in doesn’t matter in the same way that a computer program does not need a specific arrangement of transistors to run.
-
-- **substrate independence** : the idea that it’s what computers and brains do - the software - that’s important
-
-
-
-- **neuroprothesis** : A device replacing or extending the brain's functionality.
-
-- **China brain** : Block’s thought experiment in which the population of China instantiates the functional organization of a brain, used to test views about consciousness and functionalism.
-
-
-- **syntax** : The formal structure and rules for manipulating symbols, independent of their meaning.
-- **semantics** : The meanings, references, or truth-conditions associated with symbols or representations.
-
-
-
-:::
-
-::: {.column width="50%"}
-
-
-- **computation** : the use of well-defined algorithm or set of algorithms to generate an output. more broadly a metaphor for how the mind works
-
-- **strong AI** : The claim that an appropriately programmed computer literally has a mind and genuine understanding, not mere simulation.
-
-
-- **Chinese room** : Searle’s thought experiment arguing that executing syntax (a program) is insufficient for semantics/understanding.
-
-- **systems reply** : A response to the Chinese room: while the man doesn’t understand, the whole system (man + rules + symbols) does.
-
-
-
-:::
-:::::
-
-
+# Epistemic Issues: Functionalism
 
 ## Functionalism
 
@@ -607,12 +581,57 @@ consciousness, 2021(2), niab012. https://doi.org/10.1093/nc/niab012
     our def of the function of consciousness might be comparable?
 :::
 
+
+## {.scrollable .smaller}
+### KEY TERMS 
+::::: columns
+::: {.column width="50%"}
+
+
+
+- [**functionalism**]{.tip data-tip="the account of the mind-body relationship that states that all that matters is the causal or functional relationship between mental states. the mind performs computations. the details of what the functional relationships are implemented in doesn’t matter in the same way that a computer program does not need a specific arrangement of transistors to run." data-pos="right"}
+
+- [**substrate independence**]{.tip data-tip="the idea that it’s what computers and brains do - the software - that’s important" data-pos="right"}
+
+
+
+- [**neuroprothesis**]{.tip data-tip="A device replacing or extending the brain's functionality." data-pos="right"}
+
+- [**China brain**]{.tip data-tip="Block’s thought experiment in which the population of China instantiates the functional organization of a brain, used to test views about consciousness and functionalism." data-pos="right"}
+
+
+- [**syntax**]{.tip data-tip="The formal structure and rules for manipulating symbols, independent of their meaning." data-pos="right"}
+
+- [**semantics**]{.tip data-tip="The meanings, references, or truth-conditions associated with symbols or representations." data-pos="right"}
+
+
+
+:::
+
+::: {.column width="50%"}
+
+
+- [**computation**]{.tip data-tip="the use of well-defined algorithm or set of algorithms to generate an output. more broadly a metaphor for how the mind works." data-pos="right"}
+
+- [**strong AI**]{.tip data-tip="The claim that an appropriately programmed computer literally has a mind and genuine understanding, not mere simulation." data-pos="right"}
+
+
+- [**Chinese room**]{.tip data-tip="Searle’s thought experiment arguing that executing syntax (a program) is insufficient for semantics/understanding." data-pos="right"}
+
+- [**systems reply**]{.tip data-tip="A response to the Chinese room: while the man doesn’t understand, the whole system (man + rules + symbols) does." data-pos="right"}
+
+
+
+:::
+:::::
+
+
 ## A Function for Consciousness?
 
 -   <https://en.wikipedia.org/wiki/Function>
 -   <https://en.wikipedia.org/wiki/Function_(biology)>
 
-# Epistemic Issues
+
 
 ## Neurons
 
@@ -678,6 +697,11 @@ consciousness really arise from just a lot of these connected together?
 
 :::
 
+
+
+# Epistemic Issues: Mysterianism
+
+
 ## {.scrollable .smaller}
 
 ### KEY TERMS 
@@ -685,13 +709,13 @@ consciousness really arise from just a lot of these connected together?
 ::: {.column width="50%"}
 
 
-- **dancing qualia** : Chalmers’s argument that if functional organization stays fixed across substrate changes, qualia can’t “dance” undetectably; supports organizational invariance.
+- [**dancing qualia**]{.tip data-tip="Chalmers’s argument that if functional organization stays fixed across substrate changes, qualia can’t “dance” undetectably; supports organizational invariance." data-pos="right"}
 
-- **organisational invariance** : The principle that conscious experience depends only on a system’s abstract causal organization, not its material substrate.
+- [**organisational invariance**]{.tip data-tip="The principle that conscious experience depends only on a system’s abstract causal organization, not its material substrate." data-pos="right"}
 
-- **mysterianism** : The view (e.g., McGinn) that humans are cognitively closed to solving the hard problem of consciousness.
+- [**mysterianism**]{.tip data-tip="The view (e.g., McGinn) that humans are cognitively closed to solving the hard problem of consciousness." data-pos="right"}
 
-- **cognitive closure** : The idea that some truths are in principle inaccessible to a type of mind given its cognitive capacities.
+- [**cognitive closure**]{.tip data-tip="The idea that some truths are in principle inaccessible to a type of mind given its cognitive capacities." data-pos="right"}
 
 
 
@@ -702,11 +726,13 @@ consciousness really arise from just a lot of these connected together?
 
 
 
-- **non-reductive materialism** : Everything is physical, but mental properties are not reducible; they supervene on the physical and may have distinct causal roles.
+- [**non-reductive materialism**]{.tip data-tip="Everything is physical, but mental properties are not reducible; they supervene on the physical and may have distinct causal roles." data-pos="right"}
 
-- **private knowledge** : knowledge to which only you have access 
-- **robot** : a machine controlled by a computer that is capable of interacting with the environment and that is capable of carrying out a complex sequence of actions automatically.  
-- **ego theory** : the theory of the self that says that there is a single unified self that  
+- [**private knowledge**]{.tip data-tip="knowledge to which only you have access " data-pos="right"}
+
+- [**robot**]{.tip data-tip="a machine controlled by a computer that is capable of interacting with the environment and that is capable of carrying out a complex sequence of actions automatically. " data-pos="right"}
+
+- [**ego theory**]{.tip data-tip="the theory of the self that says that there is a single unified self   " data-pos="right"}
 
 
 
@@ -767,97 +793,97 @@ consciousness really arise from just a lot of these connected together?
 
 ## Definitions {.scrollable .smaller}
 
-- **mind-body problem** : the problem of how private experience and subjective awareness can arise from the objective matter that comprises neurons and the brain.
+- [**mind-body problem**]{.tip data-tip="the problem of how private experience and subjective awareness can arise from the objective matter that comprises neurons and the brain." data-pos="right"}
 
-- **philosophy of mind** : The branch of philosophy that studies mind, consciousness, mental states, and their relations to the brain, body, and world.
+- [**philosophy of mind**]{.tip data-tip="The branch of philosophy that studies mind, consciousness, mental states, and their relations to the brain, body, and world." data-pos="right"}
 
-- **thought experiment** : the process of investigating our beliefs about the mind by taking some scenario and thinking through the consequences; examples include mary the scientist when considering the knowledge argument.
-- **intuition pump** : a term coined by dennett to refer to a small thought problem constructed to garner our intuitions about important philosophical questions. bear in mind our intuitions might not always be correct.
+- [**thought experiment**]{.tip data-tip="the process of investigating our beliefs about the mind by taking some scenario and thinking through the consequences; examples include mary the scientist when considering the knowledge argument." data-pos="right"}
 
-- **Swampman** : Davidson’s thought experiment about a lightning-created duplicate of a person with no causal history, used to probe meaning, content, and personal identity.
-- **mind** : The set of capacities for consciousness, thinking, feeling, intending, and perceiving, typically realized by brain processes.
-- **brain** : The central organ of the nervous system that processes information, coordinates behavior, and underlies mental functions.
+- [**intuition pump**]{.tip data-tip="a term coined by dennett to refer to a small thought problem constructed to garner our intuitions about important philosophical questions. bear in mind our intuitions might not always be correct." data-pos="right"}
 
+- [**Swampman**]{.tip data-tip="Davidson’s thought experiment about a lightning-created duplicate of a person with no causal history, used to probe meaning, content, and personal identity." data-pos="right"}
 
-- **mereological fallacy** : confusing the brain and mind by making statements such as “the brain believes”
-- **qualia/quale** : the elements of sensation; the individual components of conscious experience
+- [**mind**]{.tip data-tip="The set of capacities for consciousness, thinking, feeling, intending, and perceiving, typically realized by brain processes." data-pos="right"}
 
+- [**brain**]{.tip data-tip="The central organ of the nervous system that processes information, coordinates behavior, and underlies mental functions." data-pos="right"}
 
-- **substance dualism/Cartesian dualism** : the same as cartesian dualism - the idea that there are two basic types of substance
 
-- **res extensa** : “Extended substance” in Descartes: matter that occupies space.
-- **res cogitans** : “Thinking substance” in Descartes: mind or consciousness.
+- [**mereological fallacy**]{.tip data-tip="confusing the brain and mind by making statements such as “the brain believes”" data-pos="right"}
+- [**qualia/quale**]{.tip data-tip="the elements of sensation; the individual components of conscious experience" data-pos="right"}
 
-- **pineal gland** : a small gland near the centre of the brain between the two hemispheres. thought to be the seat of the soul and where mind interacts with matter by descartes
 
+- [**substance dualism/Cartesian dualism**]{.tip data-tip="the same as cartesian dualism - the idea that there are two basic types of substance" data-pos="right"}
 
+- [**res extensa**]{.tip data-tip="“Extended substance” in Descartes: matter that occupies space." data-pos="right"}
+- [**res cogitans**]{.tip data-tip="“Thinking substance” in Descartes: mind or consciousness." data-pos="right"}
 
+- [**pineal gland**]{.tip data-tip="a small gland near the centre of the brain between the two hemispheres. thought to be the seat of the soul and where mind interacts with matter by descartes" data-pos="right"}
 
-- **parallelism** : The view that mental and physical events run in coordinated parallel without direct causal interaction (e.g., Leibniz’s pre-established harmony).
-- **occasionalism** : The view that God (or a fundamental cause) coordinates mental and physical events on each “occasion”; no direct mind–body causation.
-- **dendron** : In Eccles’s dualist-interactionist model, a functional cluster of cortical dendrites posited as the neural unit that interfaces with the mind.
-- **psychon** : In Eccles’s model, a putative unit of conscious experience or intention that interacts with a dendron.
-- **property dualism** : One kind of substance (physical) but with irreducible mental properties that depend on, yet are not identical to, physical properties.
 
-- **emergentism or emergence** : the way in which complex properties and behaviour emerge from the interaction of many simple properties.  
-- **monism** : the doctrine that says that there is only one type of substance - mind or matter. contrast dualism.  
-- **dualism** : the idea that there are two basic sorts of substance - that mind and matter are completely different kinds of thing. contrast monism.  
 
-- **idealism** : a form of monism that says that mind is all there is. 
 
-- **materialism/physicalism** : the philosophical proposal that matter is the only fundamental kind of stuff in the universe
+- [**parallelism**]{.tip data-tip="The view that mental and physical events run in coordinated parallel without direct causal interaction (e.g., Leibniz’s pre-established harmony)." data-pos="right"}
+- [**occasionalism**]{.tip data-tip="The view that God (or a fundamental cause) coordinates mental and physical events on each “occasion”; no direct mind–body causation." data-pos="right"}
+- [**dendron**]{.tip data-tip="In Eccles’s dualist-interactionist model, a functional cluster of cortical dendrites posited as the neural unit that interfaces with the mind." data-pos="right"}
+- [**psychon**]{.tip data-tip="In Eccles’s model, a putative unit of conscious experience or intention that interacts with a dendron." data-pos="right"}
+- [**property dualism**]{.tip data-tip="One kind of substance (physical) but with irreducible mental properties that depend on, yet are not identical to, physical properties." data-pos="right"}
 
-- **determinism** : the notion that everything is already determined by previous events. the laws of physics mean that every event now can only have one outcome
+- [**emergentism or emergence**]{.tip data-tip="the way in which complex properties and behaviour emerge from the interaction of many simple properties.  " data-pos="right"}
+- [**monism**]{.tip data-tip="the doctrine that says that there is only one type of substance - mind or matter. contrast dualism. " data-pos="right"} 
+- [**dualism**]{.tip data-tip="the idea that there are two basic sorts of substance - that mind and matter are completely different kinds of thing. contrast monism.  " data-pos="right"}
 
+- [**idealism**]{.tip data-tip="a form of monism that says that mind is all there is. " data-pos="right"}
 
+- [**materialism/physicalism**]{.tip data-tip="the philosophical proposal that matter is the only fundamental kind of stuff in the universe" data-pos="right"}
 
+- [**determinism**]{.tip data-tip="the notion that everything is already determined by previous events. the laws of physics mean that every event now can only have one outcome" data-pos="right"}
 
 
-- **knowledge argument** : Jackson’s thought experiment about mary the super-scientist who is kept in a monochrome environment all her life. she knows everything there is to know about vision and the physics of colour. she is suddenly presented with a red rose. will she learn anything new? if you think she does the thought experiment is an argument against physicalism.
 
-- **knowledge argument** : an argument illustrated by the thought experiment of mary the scientist who sees the world in black and white and then is given a coloured rose; is it possible to know all there is about colour without experiencing it? the knowledge argument is considered to be one of the strongest ripostes to materialism. 
 
-- **inverted spectrum** :  a thought experiment, whereby individuals 'see' different colors; for example, when I have a sensation of red, you have a sensation of blue. How could we ever know?
 
+- [**knowledge argument**]{.tip data-tip="Jackson’s thought experiment about mary the super-scientist who is kept in a monochrome environment all her life. she knows everything there is to know about vision and the physics of colour. she is suddenly presented with a red rose. will she learn anything new? if you think she does the thought experiment is an argument against physicalism." data-pos="right"}
 
-- **nociceptor** : a specialist type of nerve cell that responds to potentially harmful or dangerous stimuli
+- [**knowledge argument**]{.tip data-tip="an argument illustrated by the thought experiment of mary the scientist who sees the world in black and white and then is given a coloured rose; is it possible to know all there is about colour without experiencing it? the knowledge argument is considered to be one of the strongest ripostes to materialism. " data-pos="right"}
 
-- **nociceptive pain** : Pain arising from activation of nociceptors by actual or potential tissue-damaging stimuli (as opposed to neuropathic pain).
-- **A-fibres** : Fast, myelinated afferent fibers (especially A‑delta) that convey sharp, well-localized pain and some temperature information.
-- **C-fibres** : Slow, unmyelinated afferent fibers that convey dull, diffuse, lingering pain (and some temperature/itch).
-- **gate control theory** : Melzack and Wall’s theory that the spinal cord “gate” modulates pain signals based on peripheral input and descending control.
-- **endorphins** : Endogenous opioid peptides (e.g., β‑endorphin) that bind opioid receptors to reduce pain and modulate stress and reward.
+- [**inverted spectrum**]{.tip data-tip=" a thought experiment, whereby individuals 'see' different colors; for example, when I have a sensation of red, you have a sensation of blue. How could we ever know?" data-pos="right"}
 
 
+- [**nociceptor**]{.tip data-tip="a specialist type of nerve cell that responds to potentially harmful or dangerous stimuli" data-pos="right"}
 
-- **argument by analogy (other minds)** : The inference that others have minds because their bodies and behaviors are relevantly like ours, which we know are accompanied by mentality.
-- **congenital analgesia** : A rare condition of being born without pain sensation, often with normal touch, leading to high risk of injury.
-- **dissociation** : A disruption in the normal integration of consciousness, memory, identity, perception, or control; experience and behavior can come apart.
-- **p-zombie** : A being physically and behaviorally identical to a human but lacking conscious experience; used in arguments about physicalism.
-- **epiphenomenalism** : The view that mental events are by-products of physical processes and exert no causal influence on the physical.
-- **conceivability** : Coherent imaginability of a scenario; often used in modal arguments (e.g., zombies) to suggest metaphysical possibility.
+- [**nociceptive pain**]{.tip data-tip="Pain arising from activation of nociceptors by actual or potential tissue-damaging stimuli (as opposed to neuropathic pain)." data-pos="right"}
+- [**A-fibres**]{.tip data-tip="Fast, myelinated afferent fibers (especially A‑delta) that convey sharp, well-localized pain and some temperature information." data-pos="right"}
+- [**C-fibres**]{.tip data-tip="Slow, unmyelinated afferent fibers that convey dull, diffuse, lingering pain (and some temperature/itch)." data-pos="right"}
+- [**gate control theory**]{.tip data-tip="Melzack and Wall’s theory that the spinal cord “gate” modulates pain signals based on peripheral input and descending control." data-pos="right"}
+- [**endorphins**]{.tip data-tip="Endogenous opioid peptides (e.g., β‑endorphin) that bind opioid receptors to reduce pain and modulate stress and reward." data-pos="right"}
 
 
 
+- [**argument by analogy (other minds)**]{.tip data-tip="The inference that others have minds because their bodies and behaviors are relevantly like ours, which we know are accompanied by mentality." data-pos="right"}
+- [**congenital analgesia**]{.tip data-tip="A rare condition of being born without pain sensation, often with normal touch, leading to high risk of injury." data-pos="right"}
+- [**dissociation**]{.tip data-tip="A disruption in the normal integration of consciousness, memory, identity, perception, or control; experience and behavior can come apart." data-pos="right"}
+- [**p-zombie**]{.tip data-tip="A being physically and behaviorally identical to a human but lacking conscious experience; used in arguments about physicalism." data-pos="right"}
+- [**epiphenomenalism**]{.tip data-tip="The view that mental events are by-products of physical processes and exert no causal influence on the physical." data-pos="right"}
+- [**conceivability**]{.tip data-tip="Coherent imaginability of a scenario; often used in modal arguments (e.g., zombies) to suggest metaphysical possibility." data-pos="right"}
 
 
 
 
 
 
-- **reductive materialism** : The claim that mental states/properties are nothing over and above physical states/properties and can be reduced to them.
 
-- **mind–brain identity theory** : the thesis that mental states are identical to brain states.  
 
-- **type identity theory** : The identity view that kinds of mental states (types) are identical to kinds of brain states (e.g., pain = C‑fiber firing).
-- **multiple realisability** : The idea that the same mental state or function can be realized by different physical substrates or organizations.
 
-- **eliminative materialism** :  a materialist account of the mind body problem that says our everyday common sense “folk psychology” view of the world is wrong
+- [**reductive materialism**]{.tip data-tip="The claim that mental states/properties are nothing over and above physical states/properties and can be reduced to them." data-pos="right"}
 
-- **folk psychology** : Common-sense explanatory scheme of beliefs, desires, intentions, and emotions used to predict and explain behavior.
+- [**mind–brain identity theory**]{.tip data-tip="the thesis that mental states are identical to brain states.  " data-pos="right"}
 
+- [**type identity theory**]{.tip data-tip="The identity view that kinds of mental states (types) are identical to kinds of brain states (e.g., pain = C‑fiber firing)." data-pos="right"}
+- [**multiple realisability**]{.tip data-tip="The idea that the same mental state or function can be realized by different physical substrates or organizations." data-pos="right"}
 
+- [**eliminative materialism**]{.tip data-tip=" a materialist account of the mind body problem that says our everyday common sense “folk psychology” view of the world is wrong" data-pos="right"}
 
+- [**folk psychology**]{.tip data-tip="Common-sense explanatory scheme of beliefs, desires, intentions, and emotions used to predict and explain behavior." data-pos="right"}
 
 
 
@@ -865,39 +891,42 @@ consciousness really arise from just a lot of these connected together?
 
 
 
-- **functionalism** : the account of the mind-body relationship that states that all that matters is the causal or functional relationship between mental states. the mind performs computations. the details of what the functional relationships are implemented in doesn’t matter in the same way that a computer program does not need a specific arrangement of transistors to run.
-- **substrate independence** : the idea that it’s what computers and brains do - the software - that’s important
 
 
 
-- **neuroprothesis** :
+- [**functionalism**]{.tip data-tip="the account of the mind-body relationship that states that all that matters is the causal or functional relationship between mental states. the mind performs computations. the details of what the functional relationships are implemented in doesn’t matter in the same way that a computer program does not need a specific arrangement of transistors to run." data-pos="right"}
+- [**substrate independence**]{.tip data-tip="the idea that it’s what computers and brains do - the software - that’s important" data-pos="right"}
 
-- **China brain** : Block’s thought experiment in which the population of China instantiates the functional organization of a brain, used to test views about consciousness and functionalism.
 
 
-- **syntax** : The formal structure and rules for manipulating symbols, independent of their meaning.
-- **semantics** : The meanings, references, or truth-conditions associated with symbols or representations.
+- [**neuroprothesis**]{.tip data-tip="A device replacing or extending the brain's functionality." data-pos="right"}
 
-- **computation** : the use of well-defined algorithm or set of algorithms to generate an output. more broadly a metaphor for how the mind works
+- [**China brain**]{.tip data-tip="Block’s thought experiment in which the population of China instantiates the functional organization of a brain, used to test views about consciousness and functionalism." data-pos="right"}
 
-- **strong AI** : The claim that an appropriately programmed computer literally has a mind and genuine understanding, not mere simulation.
-- **Chinese room** : Searle’s thought experiment arguing that executing syntax (a program) is insufficient for semantics/understanding.
-- **systems reply** : A response to the Chinese room: while the man doesn’t understand, the whole system (man + rules + symbols) does.
 
+- [**syntax**]{.tip data-tip="The formal structure and rules for manipulating symbols, independent of their meaning." data-pos="right"}
+- [**semantics**]{.tip data-tip="The meanings, references, or truth-conditions associated with symbols or representations." data-pos="right"}
 
-- **dancing qualia** : Chalmers’s argument that if functional organization stays fixed across substrate changes, qualia can’t “dance” undetectably; supports organizational invariance.
-- **organisational invariance** : The principle that conscious experience depends only on a system’s abstract causal organization, not its material substrate.
+- [**computation**]{.tip data-tip="the use of well-defined algorithm or set of algorithms to generate an output. more broadly a metaphor for how the mind works" data-pos="right"}
 
+- [**strong AI**]{.tip data-tip="The claim that an appropriately programmed computer literally has a mind and genuine understanding, not mere simulation." data-pos="right"}
+- [**Chinese room**]{.tip data-tip="Searle’s thought experiment arguing that executing syntax (a program) is insufficient for semantics/understanding." data-pos="right"}
+- [**systems reply**]{.tip data-tip="A response to the Chinese room: while the man doesn’t understand, the whole system (man + rules + symbols) does." data-pos="right"}
 
 
+- [**dancing qualia**]{.tip data-tip="Chalmers’s argument that if functional organization stays fixed across substrate changes, qualia can’t “dance” undetectably; supports organizational invariance." data-pos="right"}
+- [**organisational invariance**]{.tip data-tip="The principle that conscious experience depends only on a system’s abstract causal organization, not its material substrate." data-pos="right"}
 
-- **mysterianism** : The view (e.g., McGinn) that humans are cognitively closed to solving the hard problem of consciousness.
-- **cognitive closure** : The idea that some truths are in principle inaccessible to a type of mind given its cognitive capacities.
-- **non-reductive materialism** : Everything is physical, but mental properties are not reducible; they supervene on the physical and may have distinct causal roles.
 
-- **private knowledge** : knowledge to which only you have access 
-- **robot** : a machine controlled by a computer that is capable of interacting with the environment and that is capable of carrying out a complex sequence of actions automatically.  
-- **ego theory** : the theory of the self that says that there is a single unified self that  
+
+
+- [**mysterianism**]{.tip data-tip="The view (e.g., McGinn) that humans are cognitively closed to solving the hard problem of consciousness." data-pos="right"}
+- [**cognitive closure**]{.tip data-tip="The idea that some truths are in principle inaccessible to a type of mind given its cognitive capacities." data-pos="right"}
+- [**non-reductive materialism**]{.tip data-tip="Everything is physical, but mental properties are not reducible; they supervene on the physical and may have distinct causal roles." data-pos="right"}
+
+- [**private knowledge**]{.tip data-tip="knowledge to which only you have access " data-pos="right"}
+- [**robot**]{.tip data-tip="a machine controlled by a computer that is capable of interacting with the environment and that is capable of carrying out a complex sequence of actions automatically.  " data-pos="right"}
+- [**ego theory**]{.tip data-tip="the theory of the self that says that there is a single unified self that  " data-pos="right"}
 
 
 ## {.smaller}
